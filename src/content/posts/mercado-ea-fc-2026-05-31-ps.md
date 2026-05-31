@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:47:01.000Z
+pubDatetime: 2026-05-31T21:29:17.000Z
 title: "Championship no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,61 +13,49 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Moussa Sissoko (88, EFL Championship), com +27.7% em 24h, a 189k coins no Console (PS)."
+    a: "Moussa Sissoko (88, EFL Championship), com +14.1% em 24h, a 178k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Brandon Thomas-Asante (80), -7% em 24h, a 43k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jordan Ayew (85) — 95% de probabilidade de alta, a 27k coins."
+    a: "Finn Azaz (88), -36.6% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 5 cartas em alta contra 24 em queda (média -5.53%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 23 em queda (média -9.73%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **5 subiram** e **24 caíram**, com variação média de **-5.53%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **6 subiram** e **23 caíram**, com variação média de **-9.73%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Moussa Sissoko (88) **+27.7%** · 🔴 **Maior baixa:** Brandon Thomas-Asante (80) **-7%**
+> 🟢 **Maior alta:** Moussa Sissoko (88) **+14.1%** · 🔴 **Maior baixa:** Finn Azaz (88) **-36.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 189k coins | +27.7% | +26% |
-| Abdul Fatawu | 88 | EFL Championship | 22k coins | +27.5% | +20.6% |
-| Joe Gelhardt | 86 | EFL Championship | 26k coins | +19.3% | +38.2% |
-| James McClean | 87 | EFL Championship | 53k coins | +17.8% | +27% |
+| Moussa Sissoko | 88 | EFL Championship | 178k coins | +14.1% | +19.5% |
+| Abdul Fatawu | 88 | EFL Championship | 20k coins | +3.9% | +9.6% |
 
 
 ### Análise das altas
 
-- **Moussa Sissoko (88)** subiu **+27.7%** em 24h, a **189k coins** (faixa do dia: 141k–189k). Está +21% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Moussa Sissoko (88)** subiu **+14.1%** em 24h, a **178k coins** (faixa do dia: 144k–189k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Abdul Fatawu (88)** subiu **+27.5%** em 24h, a **22k coins** (faixa do dia: 15k–22k). Está +25% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-- **Joe Gelhardt (86)** subiu **+19.3%** em 24h, a **26k coins** (faixa do dia: 18k–26k). Está +29% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Abdul Fatawu (88)** subiu **+3.9%** em 24h, a **20k coins** (faixa do dia: 15k–24k). Está +13% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Brandon Thomas-Asante | 80 | EFL Championship | 43k coins | -7% | +22.9% |
+| Finn Azaz | 88 | EFL Championship | 24k coins | -36.6% | -16.4% |
+| Victor Torp | 80 | EFL Championship | 38k coins | -10.5% | -4.4% |
 
 
 ### Análise das baixas
 
-- **Brandon Thomas-Asante (80)** caiu **-7%** em 24h, a **43k coins** (faixa do dia: 43k–48k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
+- **Finn Azaz (88)** caiu **-36.6%** em 24h, a **24k coins** (faixa do dia: 22k–45k). Está -15% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-
-## 🔮 O que o modelo prevê para as próximas 24h
-
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Jordan Ayew | 85 | 27k coins | 33k coins | 95% |
+- **Victor Torp (80)** caiu **-10.5%** em 24h, a **38k coins** (faixa do dia: 38k–43k). Está em linha com a média de 7 dias (-6%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 80% de probabilidade.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -76,7 +64,8 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | 22k coins | -17.3% |
+| Abdul Fatawu | 88 | 20k coins | -17.3% |
+| Finn Azaz | 88 | 24k coins | -21.4% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -87,20 +76,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Moussa Sissoko (88, EFL Championship), com +27.7% em 24h, a 189k coins no Console (PS).
+Moussa Sissoko (88, EFL Championship), com +14.1% em 24h, a 178k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Brandon Thomas-Asante (80), -7% em 24h, a 43k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jordan Ayew (85) — 95% de probabilidade de alta, a 27k coins.
+Finn Azaz (88), -36.6% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 5 cartas em alta contra 24 em queda (média -5.53%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 23 em queda (média -9.73%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 
