@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:18.000Z
+pubDatetime: 2026-05-31T22:47:02.000Z
 title: "Jogadores baratos de Championship no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Jaden Philogene (87, EFL Championship) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Tristan Crama (86, EFL Championship) aparece como melhor custo-benefício, a 11k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jaden Philogene (87) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Tristan Crama (86) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | LM | EFL Championship | 14k coins | -12.9% |
-| Terry Devlin | 86 | RB | EFL Championship | 11k coins | -68.5% |
-| Tristan Crama | 86 | CB | EFL Championship | 12k coins | -5.9% |
-| Conor Coady | 85 | CB | EFL Championship | 11k coins | -59.8% |
-| Imrân Louza | 84 | CM | EFL Championship | 11k coins | -74.6% |
-| Leif Davis | 84 | LB | EFL Championship | 11k coins | -57.7% |
-| Nicolas Madsen | 84 | CDM | EFL Championship | 11k coins | -75% |
-| Alan Browne | 84 | RB | EFL Championship | 11k coins | -76.8% |
-| George Dobson | 84 | CM | EFL Championship | 11k coins | -55.6% |
-| Tom Ince | 84 | LM | EFL Championship | 11k coins | -79.4% |
-| Emil Riis | 84 | ST | EFL Championship | 12k coins | -59.3% |
-| Caleb Taylor | 84 | CB | EFL Championship | 12k coins | -76.5% |
-| Haji Wright | 84 | ST | EFL Championship | 12k coins | -60.8% |
-| Jaden Philogene | 84 | LM | EFL Championship | 12k coins | -80.6% |
-| Kieffer Moore | 83 | ST | EFL Championship | 11k coins | -76.8% |
+| Tristan Crama | 86 | CB | EFL Championship | 11k coins | -12% |
+| Terry Devlin | 86 | RB | EFL Championship | 11k coins | -68.1% |
+| Conor Coady | 85 | CB | EFL Championship | 11k coins | -67.6% |
+| Caleb Taylor | 84 | CB | EFL Championship | 11k coins | -77.6% |
+| Alan Browne | 84 | RB | EFL Championship | 11k coins | -76.7% |
+| Jaden Philogene | 84 | LM | EFL Championship | 11k coins | -83.1% |
+| Tom Ince | 84 | LM | EFL Championship | 11k coins | -77.7% |
+| George Dobson | 84 | CM | EFL Championship | 11k coins | -65.1% |
+| Haji Wright | 84 | ST | EFL Championship | 11k coins | -63.3% |
+| Imrân Louza | 84 | CM | EFL Championship | 11k coins | -62.1% |
+| Nicolas Madsen | 84 | CDM | EFL Championship | 11k coins | -71% |
+| Emil Riis | 84 | ST | EFL Championship | 11k coins | -60.7% |
+| Leif Davis | 84 | LB | EFL Championship | 11k coins | -65.6% |
+| Femi Seriki | 83 | RB | EFL Championship | 11k coins | -85.3% |
+| Divin Mubama | 83 | ST | EFL Championship | 11k coins | -58.1% |
 
 
 ## 📈 Destaques
 
-- **Jaden Philogene (87, LM)** da EFL Championship, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tristan Crama (86, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Terry Devlin (86, RB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tristan Crama (86, CB)** da EFL Championship, a apenas **12k coins**
-
 - **Conor Coady (85, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Imrân Louza (84, CM)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caleb Taylor (84, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alan Browne (84, RB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Jaden Philogene (87, EFL Championship) aparece como melhor custo-benefício, a 14k coins no PC.
+Tristan Crama (86, EFL Championship) aparece como melhor custo-benefício, a 11k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
