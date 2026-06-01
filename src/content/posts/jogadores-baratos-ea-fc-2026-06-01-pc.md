@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:47:02.000Z
+pubDatetime: 2026-06-01T13:47:02.000Z
 title: "Jogadores baratos de Championship no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Terry Devlin | 86 | RB | EFL Championship | 11k coins | -65.4% |
-| Tristan Crama | 86 | CB | EFL Championship | 11k coins | -12% |
+| Terry Devlin | 86 | RB | EFL Championship | 11k coins | -17.3% |
+| Tristan Crama | 86 | CB | EFL Championship | 11k coins | -14% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 15k coins | -26.2% |
 | Conor Coady | 85 | CB | EFL Championship | 11k coins | -68.2% |
 | Caleb Taylor | 84 | CB | EFL Championship | 11k coins | -77.8% |
-| Alan Browne | 84 | RB | EFL Championship | 11k coins | -77.2% |
+| Alan Browne | 84 | RB | EFL Championship | 11k coins | -69.1% |
+| Emil Riis | 84 | ST | EFL Championship | 11k coins | -74.1% |
+| Nicolas Madsen | 84 | CDM | EFL Championship | 11k coins | -67.4% |
+| Imrân Louza | 84 | CM | EFL Championship | 11k coins | -15.7% |
+| Leif Davis | 84 | LB | EFL Championship | 11k coins | -81.9% |
 | Haji Wright | 84 | ST | EFL Championship | 11k coins | -68.4% |
-| Leif Davis | 84 | LB | EFL Championship | 11k coins | -68.4% |
-| Emil Riis | 84 | ST | EFL Championship | 11k coins | -73.2% |
-| Nicolas Madsen | 84 | CDM | EFL Championship | 11k coins | -66.9% |
-| Imrân Louza | 84 | CM | EFL Championship | 11k coins | -15.4% |
-| Jaden Philogene | 84 | LM | EFL Championship | 11k coins | -77.2% |
-| George Dobson | 84 | CM | EFL Championship | 11k coins | -63.6% |
-| Tom Ince | 84 | LM | EFL Championship | 11k coins | -79.4% |
+| George Dobson | 84 | CM | EFL Championship | 11k coins | -73.1% |
+| Tom Ince | 84 | LM | EFL Championship | 11k coins | -77% |
+| Jaden Philogene | 84 | LM | EFL Championship | 11k coins | -83% |
 | Femi Seriki | 83 | RB | EFL Championship | 11k coins | -85.7% |
-| Kieffer Moore | 83 | ST | EFL Championship | 11k coins | -78.4% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Tristan Crama (86, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Joe Gelhardt (86, ST)** da EFL Championship, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Conor Coady (85, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Caleb Taylor (84, CB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Alan Browne (84, RB)** da EFL Championship, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
