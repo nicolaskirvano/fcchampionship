@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:47:02.000Z
+pubDatetime: 2026-06-02T13:47:04.000Z
 title: "Jogadores baratos de Championship no EA FC (02/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
