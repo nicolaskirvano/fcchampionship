@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:47:18.000Z
+pubDatetime: 2026-06-18T22:48:22.000Z
 title: "Championship no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,72 +13,68 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Jordan Ayew (85, EFL Championship), com +41.7% em 24h, a 35k coins no PC."
+    a: "Gustavo Hamer (83, EFL Championship), com +15.9% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Tom Ince (84), -41% em 24h, a 44k coins."
+    a: "Jaden Philogene (84), -33.8% em 24h, a 36k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 2 cartas em alta contra 16 em queda (média -7.9%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 1 cartas em alta contra 19 em queda (média -9.94%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **18/06/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **2 em alta** e **16 em queda**, média de **-7.9%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado da Championship esta sob forte pressao, com um sentimento claramente negativo dominando as ultimas 24 horas. Entre os ativos monitorados, apenas uma alta foi registrada contra dezenove quedas, resultando em uma media de desvalorizacao de -9.94%.
 
-> 🟢 **Maior alta:** Jordan Ayew (85) **+41.7%** · 🔴 **Maior baixa:** Tom Ince (84) **-41%**
+> 🟢 **Maior alta:** Gustavo Hamer (83) **+15.9%** · 🔴 **Maior baixa:** Jaden Philogene (84) **-33.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jordan Ayew | 85 | EFL Championship | 35k coins | +41.7% | +32.8% |
+| Gustavo Hamer | 83 | EFL Championship | 40k coins | +15.9% | +1.3% |
 
 
-### Análise das altas
-
-- **Jordan Ayew (85)** subiu **+41.7%** em 24h, a **35k coins** (faixa do dia: 29k–39k). Está em linha com a média de 7 dias (-7%). O modelo vê **estabilização** no curto prazo.
+Gustavo Hamer e a unica excecao positiva, registrando uma alta de 15.9% e atingindo 40k coins. Com uma probabilidade de alta de 56%, ele se destaca como o ativo mais seguro em meio a volatilidade negativa.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tom Ince | 84 | EFL Championship | 44k coins | -41% | -40.4% |
-| James McClean | 87 | EFL Championship | 22k coins | -25.4% | -17.8% |
-| Nicolas Madsen | 84 | EFL Championship | 32k coins | -21.5% | -6.6% |
-| Imrân Louza | 84 | EFL Championship | 35k coins | -21.2% | +5.1% |
-| Jaden Philogene | 84 | EFL Championship | 36k coins | -20.7% | -0.7% |
-| Alan Browne | 84 | EFL Championship | 36k coins | -17.6% | +2.7% |
-| Brandon Thomas-Asante | 80 | EFL Championship | 39k coins | -17.5% | -4.9% |
-| Haji Wright | 84 | EFL Championship | 34k coins | -10.3% | -7.3% |
-| Abdul Fatawu | 88 | EFL Championship | 23k coins | -9.8% | +1.1% |
-| Kieffer Moore | 83 | EFL Championship | 40k coins | -9.2% | -1.2% |
+| Jaden Philogene | 84 | EFL Championship | 36k coins | -33.8% | -5.9% |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | -31.6% | +27% |
+| Nicolas Madsen | 84 | EFL Championship | 29k coins | -29.4% | -12.4% |
+| James McClean | 87 | EFL Championship | 22k coins | -25.4% | -16.2% |
+| Leif Davis | 84 | EFL Championship | 38k coins | -24% | -13.6% |
+| Alan Browne | 84 | EFL Championship | 38k coins | -17.6% | +2.7% |
+| Kieffer Moore | 83 | EFL Championship | 33k coins | -13.3% | -14.4% |
+| Emil Riis | 84 | EFL Championship | 34k coins | -13.2% | -9.2% |
+| Haji Wright | 84 | EFL Championship | 34k coins | -12.2% | -9.3% |
+| Tom Ince | 84 | EFL Championship | 44k coins | -11.5% | -7.8% |
 
 
-### Análise das baixas
+Jaden Philogene lidera as quedas com uma queda drastica de 33.8%, caindo para 36k coins, seguido de perto por Joe Gelhardt (-31.6% para 20k) e Nicolas Madsen (-29.4% para 29k). Outros como James McClean, Leif Davis e Alan Browne tambem sofreram desvalorizacoes significativas, refletindo a tendencia de venda massiva no segmento.
 
-- **Tom Ince (84)** caiu **-41%** em 24h, a **44k coins** (faixa do dia: 30k–52k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
 
-- **James McClean (87)** caiu **-25.4%** em 24h, a **22k coins** (faixa do dia: 22k–30k). Está -19% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Nicolas Madsen (84)** caiu **-21.5%** em 24h, a **32k coins** (faixa do dia: 32k–42k). Está -21% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+## 🎯 O que fazer hoje
+Dado o cenário de alta volatilidade e quedas generalizadas, a recomendacao e evitar compras impulsivas e aguardar estabilizacao nos precos. Para traders experientes, as quedas acentuadas em ativos como Philogene e Gelhardt podem representar oportunidades de entrada de risco calculado, mas a cautela e essencial.
 
 
 ## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em multiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Jordan Ayew (85, EFL Championship), com +41.7% em 24h, a 35k coins no PC.
+Gustavo Hamer (83, EFL Championship), com +15.9% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**  
-Tom Ince (84), -41% em 24h, a 44k coins.
+Jaden Philogene (84), -33.8% em 24h, a 36k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 2 cartas em alta contra 16 em queda (média -7.9%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 1 cartas em alta contra 19 em queda (média -9.94%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
