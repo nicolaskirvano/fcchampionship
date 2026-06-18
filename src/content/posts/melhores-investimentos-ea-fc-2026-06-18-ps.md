@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:25:38.000Z
+pubDatetime: 2026-06-18T19:47:09.000Z
 title: "Melhores investimentos em Championship no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -31,24 +31,21 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 215k coins | +9.3% | +55.3% | 57% |
+| Moussa Sissoko | 88 | EFL Championship | 215k coins | +5.8% | +55.3% | 57% |
 | Jordan Ayew | 85 | EFL Championship | 36k coins | +11.7% | +44.4% | 95% |
-| Finn Azaz | 88 | EFL Championship | 35k coins | +5.1% | +37.5% | 5% |
 | Alan Browne | 84 | EFL Championship | 40k coins | +11.9% | +7.8% | 5% |
-| Caleb Taylor | 84 | EFL Championship | 48k coins | +3.2% | +6.7% | 27% |
+| Caleb Taylor | 84 | EFL Championship | 48k coins | +3.8% | +6.7% | 27% |
 
 
 ## 📈 Análise dos destaques
 
-- **Moussa Sissoko (88)** — 215k coins, **+55.3% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Moussa Sissoko (88)** — 215k coins, **+55.3% em 7 dias** (+5.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Jordan Ayew (85)** — 36k coins, **+44.4% em 7 dias** (+11.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Finn Azaz (88)** — 35k coins, **+37.5% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+0%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
 - **Alan Browne (84)** — 40k coins, **+7.8% em 7 dias** (+11.9% em 24h). Preço -8% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Caleb Taylor (84)** — 48k coins, **+6.7% em 7 dias** (+3.2% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Caleb Taylor (84)** — 48k coins, **+6.7% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -59,8 +56,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em multiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
