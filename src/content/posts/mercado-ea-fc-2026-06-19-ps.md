@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:48:16.000Z
+pubDatetime: 2026-06-20T01:47:47.000Z
 title: "Championship no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,44 +13,49 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Imrân Louza (84, EFL Championship), com +12.5% em 24h, a 49k coins no Console (PS)."
+    a: "George Dobson (84, EFL Championship), com +22.8% em 24h, a 48k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Caleb Taylor (84), -27.1% em 24h, a 34k coins."
+    a: "Caleb Taylor (84), -26.4% em 24h, a 33k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 5 cartas em alta contra 9 em queda (média -4.08%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 10 em queda (média -0.9%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do EA FC Ultimate Team para o segmento Championship em consoles PlayStation apresenta hoje, 19 de junho de 2026, uma dinâmica claramente deflacionária, marcada por um sentimento geral de desconfiança e liquidez restrita entre os traders ativos. Os indicadores macroeconômicos da plataforma revelam uma predominância esmagadora das quedas nos preços das cartas, com nove ativos registrando perdas significativas contra apenas cinco que conseguiram manter ou aumentar seu valor, resultando em uma média negativa de -4,08% em um período de 24 horas. Esse cenário de alta volatilidade para baixo sugere que os investidores estão priorizando a realização de lucros rápidos ou simplesmente saindo do mercado para evitar riscos desnecessários, criando um ambiente hostil para quem busca operações de curto prazo sem uma análise fundamentalista rigorosa. A escassez de compradores em setores tradicionais de rendimento e a saturação de ofertas em cartas de nível 84 indicam que a demanda está fragilizada, forçando os vendedores a reduzir agressivamente suas margens para garantir a execução das ordens. Portanto, a estratégia defensiva é imperativa, pois tentar comprar no fundo de uma queda sem confirmação de suporte pode resultar em perdas imediatas, exigindo uma leitura atenta dos fluxos de ordens e das probabilidades de alta associadas a cada ativo para identificar oportunidades reais de arbitragem ou acúmulo.
+O mercado do EA FC Ultimate Team em Console PS para o segmento Championship encontra-se em uma fase de correção acentuada nesta segunda-feira, 19 de junho de 2026, caracterizada por um sentimento predominantemente negativo que reflete a cautela dos traders e a falta de catalisadores imediatos para impulsionar os preços. Com uma distribuição assimétrica de movimentos, observamos apenas seis altas contra dez quedas significativas nas últimas 24 horas, resultando em uma média geral negativa de -0.9%, o que indica que a pressão vendedora está claramente dominando a liquidez disponível. Este cenário de baixa generalizada exige uma leitura atenta dos fundamentos de cada jogador, pois nem todas as quedas representam oportunidades de compra, nem todas as altas garantem sustentabilidade, especialmente em um mercado onde a probabilidade de alta varia drasticamente entre os ativos. A volatilidade está concentrada em nomes específicos que reagem a notícias de última hora ou a ajustes de oferta e demanda, enquanto a maioria dos cards permanece estagnada ou em declínio suave, sugerindo que o momento ideal para agressividade no trading ainda não chegou. Portanto, a estratégia para hoje deve focar na preservação de capital e na identificação de pontos de compra em ativos de alta probabilidade que estão sendo vendidos por pânico, evitando expor o portfólio a ativos com alta probabilidade de continuação da queda.
 
-> 🟢 **Maior alta:** Imrân Louza (84) **+12.5%** · 🔴 **Maior baixa:** Caleb Taylor (84) **-27.1%**
+> 🟢 **Maior alta:** George Dobson (84) **+22.8%** · 🔴 **Maior baixa:** Caleb Taylor (84) **-26.4%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Imrân Louza | 84 | EFL Championship | 49k coins | +12.5% | -6.2% |
+| George Dobson | 84 | EFL Championship | 48k coins | +22.8% | +7.8% |
+| Imrân Louza | 84 | EFL Championship | 50k coins | +17.9% | +2.1% |
+| Alan Browne | 84 | EFL Championship | 47k coins | +7.2% | +3.5% |
+| Jaden Philogene | 84 | EFL Championship | 41k coins | +7.1% | +6.6% |
+| Divin Mubama | 83 | EFL Championship | 36k coins | +5% | -1.3% |
 
 
-Dentro desse mar de quedas, Imrân Louza se destaca como uma anomalia positiva, registrando um aumento robusto de 12,5% em 24 horas, com seu preço subindo para 49k coins, um movimento impulsionado por uma probabilidade de alta de 59% que atraiu traders de risco para a carta. Essa subida isolada sugere que há uma demanda específica por suas estatísticas no formato atual do meta, ou possivelmente uma antecipação de eventos de jogo que valorizam seu perfil, fazendo com que ele se desvincule temporariamente da tendência geral de baixa do mercado. A probabilidade de alta de 59% é um indicador técnico forte, sugerindo que o suporte atual está sendo defendido com sucesso e que há compradores institucionais ou bots de trading posicionados para acumular essa carta em níveis mais baixos antes de empurrar o preço ainda mais para cima. Embora outros cinco ativos tenham registrado altas, nenhuma delas atingiu a magnitude ou a clareza técnica da performance de Louza, tornando-o o único ativo do segmento Championship com um setup de compra relativamente seguro para traders agressivos que operam com alavancagem ou margem de risco elevada. É crucial observar que, mesmo com essa alta, o preço de 49k ainda está em uma zona onde a liquidez pode ser fina, então a execução de ordens de compra deve ser feita com cuidado, utilizando ordens limitadas para garantir o melhor preço possível sem pagar um prêmio excessivo pela urgência de entrada.
+Entre as poucas altas registradas, George Dobson se destaca com um impressionante aumento de 22.8% em 24 horas, atingindo os 48 mil coins, embora sua probabilidade de alta futura seja moderada em apenas 42%, o que sugere que este movimento pode ser mais técnico do que fundamental. Imrân Louza também apresenta uma performance robusta com alta de 17.9% para 50 mil coins, e sua probabilidade de alta de 59% indica que há um suporte real de compradores sustentando este preço, tornando-o um ativo interessante para monitoramento de curto prazo. Alan Browne registra uma alta modesta de 7.2% para 47 mil coins, mas com uma probabilidade de alta de apenas 5%, o que alerta para um possível esgotamento de compradores e risco de reversão imediata, devendo ser evitado para novas entradas. Jaden Philogene sobe 7.1% para 41 mil coins com uma probabilidade de alta de 58%, alinhando-se a Louza como um ativo com fundamentos mais sólidos para continuidade positiva, beneficiando-se possivelmente de escassez momentânea de ofertas. Por fim, Divin Mubama encarece 5% para 36 mil coins com 50% de probabilidade de alta, posicionando-se como uma aposta equilibrada, onde o risco e a recompensa estão quase paritários, dependendo da confirmação de volume de negociação nos próximos ciclos.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Taylor | 84 | EFL Championship | 34k coins | -27.1% | -31.2% |
-| Alan Browne | 84 | EFL Championship | 33k coins | -21.7% | -24.4% |
-| Haji Wright | 84 | EFL Championship | 32k coins | -14% | -21.3% |
-| Kieffer Moore | 88 | EFL Championship | 29k coins | -12.7% | -2.5% |
-| Emil Riis | 84 | EFL Championship | 38k coins | -5.9% | -8% |
-| Femi Seriki | 83 | EFL Championship | 39k coins | -5.8% | -23.7% |
+| Caleb Taylor | 84 | EFL Championship | 33k coins | -26.4% | -32.7% |
+| Moussa Sissoko | 88 | EFL Championship | 177k coins | -14.7% | +24.4% |
+| Finn Azaz | 88 | EFL Championship | 35k coins | -14% | +13.2% |
+| Brandon Thomas-Asante | 80 | EFL Championship | 40k coins | -9.1% | -15.8% |
+| Emil Riis | 84 | EFL Championship | 34k coins | -4.7% | -19.9% |
+| Kieffer Moore | 83 | EFL Championship | 32k coins | -4.5% | -8.6% |
+| Tom Ince | 84 | EFL Championship | 50k coins | -4% | -15% |
 
 
-Do lado oposto, a correção de preços foi severa, liderada por Caleb Taylor, que despencou 27,1% em 24 horas, atingindo o fundo de 34k coins, com uma probabilidade de alta remanescente de apenas 27%, indicando uma venda massiva e uma falta total de suporte de compradores. Essa queda drástica em Taylor sugere uma desvalorização fundamental de sua utilidade no meta ou uma saturação extrema de ofertas na lista de preços, onde vendedores desesperados estão liquidadando suas posições a qualquer custo, criando um efeito dominó de desconfiança entre os outros traders. Alan Browne também sofreu uma sangria significativa, caindo 21,7% para 33k coins, com uma probabilidade de alta mínima de 5%, o que praticamente confirma que a carta perdeu sua atratividade comercial e pode continuar caindo até encontrar um suporte psicológico ou técnico muito mais abaixo. Haji Wright, com uma queda de 14% para 32k coins e uma probabilidade de alta de 47%, mostra sinais de estabilização relativa, mas ainda está em tendência de baixa, sugerindo que o mercado está reavaliando seu valor justo de forma agressiva, possivelmente devido a novas cartas de pacotes de evento que oferecem melhor custo-benefício. Kieffer Moore, embora tenha uma rating superior de 88, caiu 12,7% para 29k coins, com apenas 16% de probabilidade de alta, demonstrando que mesmo cartas de elite não estão imunes à correção generalizada do mercado, e sua queda pode estar relacionada a uma mudança no meta de ataque que prioriza outras características, tornando seu preço atual um reflexo da baixa demanda por suas habilidades específicas. A queda de 5,9% de Emil Riis para 38k coins e de 5,8% de Femi Seriki para 39k coins, com probabilidades de alta de 43% e 38% respectivamente, indica que essas cartas estão em uma zona de indecisão, onde os vendedores estão reduzindo preços lentamente para testar a reação do mercado, mas sem a pressão de venda massiva vista em Taylor e Browne.
+As quedas são o destaque absoluto do dia, lideradas por Caleb Taylor, que despenca 26.4% para 33 mil coins, um movimento drástico que, apesar da baixa probabilidade de alta de apenas 27%, pode representar uma oportunidade de longo prazo se o jogador for essencial para squads competitivos. Moussa Sissoko, card de maior rating com 88, cai 14.7% para 177 mil coins, e sua alta probabilidade de alta de 57% sugere que esta queda pode ser uma correção saudável em um ativo premium, atraindo compradores institucionais que buscam valor em cards de alta demanda. Finn Azaz, também com 88 de rating, recua 14% para 35 mil coins, mas sua probabilidade de alta de apenas 5% indica que a venda pode continuar, caracterizando um ativo com pressão vendedora estrutural que deve ser evitado a qualquer custo. Brandon Thomas-Asante perde 9.1% para 40 mil coins com 38% de probabilidade de alta, refletindo indecisão no mercado e potencial de consolidação lateral, enquanto Emil Riis cai 4.7% para 34 mil coins com 43% de probabilidade, sugerindo uma correção leve em um ativo que pode encontrar suporte em breve. Kieffer Moore e Tom Ince completam o quadro de perdas com quedas de 4.5% e 4% respectivamente, mas Ince, com 68% de probabilidade de alta, é o mais interessante para compra na queda, pois sua fundamentação estatística aponta para uma recuperação iminente dos preços.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -59,16 +64,15 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | 18k coins | -17.3% |
 | Jordan Storey | 83 | 30k coins | -15.6% |
-| Alan Browne | 84 | 33k coins | -15.6% |
-| Kieffer Moore | 88 | 29k coins | -10.1% |
+| Alan Browne | 84 | 47k coins | -15.6% |
+| Finn Azaz | 88 | 35k coins | -21.4% |
 | Leif Davis | 84 | 40k coins | -6.8% |
-| Caleb Taylor | 84 | 34k coins | -6.8% |
+| Caleb Taylor | 84 | 33k coins | -6.8% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia ideal para hoje é manter uma postura altamente seletiva, focando exclusivamente em acumular Imrân Louza enquanto ele ainda estiver acessível perto dos 49k coins, aproveitando sua alta probabilidade de 59% de continuação da tendência de alta em um mercado predominantemente negativo. Deve-se evitar agressivamente a compra de Caleb Taylor e Alan Browne, pois suas probabilidades de alta de 27% e 5% respectivamente, combinadas com quedas de 27,1% e 21,7%, indicam que o fundo do poço ainda não foi atingido e o risco de perda capital é extremadamente elevado. Para traders mais conservadores, Haji Wright e Emil Riis podem ser monitorados de perto, pois suas probabilidades de alta de 47% e 43% sugerem que podem estar se aproximando de zonas de suporte onde a relação risco-retorno se torna mais favorável para uma entrada de curto prazo, mas apenas se houver confirmação de que as vendas estão secando. Kieffer Moore e Femi Seriki devem ser evitados por enquanto, pois a falta de convicção do mercado, evidenciada pelas baixas probabilidades de alta e quedas constantes, torna impossível prever um rebote de curto prazo, e o capital investido neles estaria sujeito a uma depreciação contínua. O timing é crucial: não tente comprar todas as cartas de uma vez, mas sim faça pequenas aquisições escalonadas de Louza ao longo das próximas horas, enquanto aguarda sinais claros de estabilização nos outros ativos antes de considerar qualquer outra operação de compra.
+A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de alta que estão em correção, especificamente Tom Ince e Moussa Sissoko, aproveitando a pânico vendedora para acumular posições a preços descontados com margem de segurança estatística. Deve-se evitar completamente a compra de Alan Browne e Finn Azaz, pois suas baixas probabilidades de alta indicam que a pressão vendedora ainda não se esgotou, expondo o capital a perdas adicionais desnecessárias. Mantenha a exposição em George Dobson e Imrân Louza apenas se já estiver posicionado, pois suas altas recentes podem estar próximas de resistências técnicas, e considere tomar lucros parciais se os preços não sustentarem acima dos níveis atuais. Para novos investimentos, o foco deve ser na liquidez e na probabilidade, priorizando ativos como Jaden Philogene que mostram equilíbrio entre preço acessível e chance de valorização, enquanto se aguarda clareza maior no mercado. A paciência é a chave neste dia de baixa, pois forçar entradas em ativos sem suporte estatístico sólido é a receita mais rápida para a erosão do banco de coins em um mercado volátil como o do Championship.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -78,13 +82,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Imrân Louza (84, EFL Championship), com +12.5% em 24h, a 49k coins no Console (PS).
+George Dobson (84, EFL Championship), com +22.8% em 24h, a 48k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Caleb Taylor (84), -27.1% em 24h, a 34k coins.
+Caleb Taylor (84), -26.4% em 24h, a 33k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 5 cartas em alta contra 9 em queda (média -4.08%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 10 em queda (média -0.9%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
