@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:48:31.000Z
+pubDatetime: 2026-06-20T22:48:27.000Z
 title: "Championship no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,58 +13,57 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jaden Philogene (87, EFL Championship), com +56.1% em 24h, a 24k coins no PC."
+    a: "Cameron Burgess (80, EFL Championship), com +14.5% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Alan Browne (84), -22.7% em 24h, a 28k coins."
+    a: "Joe Gelhardt (86), -31.6% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 9 em queda (média 5.09%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 11 em queda (média 2.67%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de Ultimate Team para o segmento da EFL Championship em PC apresenta hoje um viés claramente comprador, com uma dinâmica de preços que favorece quem busca oportunidades de entrada em ativos de médio porte. Com uma média de variação positiva de 5.09% nas últimas 24 horas, o cenário é dominado por um saldo de 11 altas contra apenas 9 quedas, indicando que a liquidez está sendo absorvida por demanda específica em certas posições e ratings. O sentimento geral sugere que os traders estão rotacionando capital rapidamente, aproveitando a volatilidade para realizar lucros em cartas que mostraram sinais de exaustão de hype, enquanto novas oportunidades surgem em jogadores com probabilidade estatística favorável de alta. É um dia de negociação ativa, onde a precisão na leitura das probabilidades de movimento é crucial para evitar comprar no topo ou vender na base, especialmente considerando a amplitude das oscilações observadas nos ativos mais líquidos da liga.
+O mercado do dia 20 de junho de 2026 no segmento de Championship para PC apresenta um cenário peculiar de clima comprador, onde a liquidez parece estar sendo absorvida por investidores cautelosos que aguardam oportunidades de entrada em ativos fundamentais, apesar do viés estatístico de alta. Os dados indicam uma distribuição equilibrada mas volátil, com 11 jogadores registrando altas e 11 quedas, resultando em uma média de variação positiva de 2.67% nas últimas 24 horas, o que sugere que o mercado está se reprecificando após ajustes anteriores. Este contexto exige que o trader mantenha os olhos abertos para discrepâncias entre a probabilidade de alta e o preço atual, pois muitas cartas estão sendo subvalorizadas pelo mercado em relação ao seu potencial de retorno. A volatilidade é o ingrediente principal hoje, e a disciplina para comprar apenas quando a probabilidade de alta excede 40% é crucial para evitar armadilhas de valor em um mercado que oscila entre a euforia e o pânico. O tom do dia é de oportunidade seletiva, onde a paciência e a análise fria dos fundamentos de cada carta, como a nacionalidade e a posição, ditam a estratégia de compra e venda.
 
-> 🟢 **Maior alta:** Jaden Philogene (87) **+56.1%** · 🔴 **Maior baixa:** Alan Browne (84) **-22.7%**
+> 🟢 **Maior alta:** Cameron Burgess (80) **+14.5%** · 🔴 **Maior baixa:** Joe Gelhardt (86) **-31.6%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 24k coins | +56.1% | -2.8% |
-| Leif Davis | 84 | EFL Championship | 50k coins | +54.7% | +8.2% |
-| George Dobson | 84 | EFL Championship | 40k coins | +39.5% | -0.6% |
-| Cameron Burgess | 80 | EFL Championship | 48k coins | +14.5% | +6.1% |
-| Emil Riis | 84 | EFL Championship | 40k coins | +9.4% | -4.1% |
+| Cameron Burgess | 80 | EFL Championship | 48k coins | +14.5% | +11.8% |
 | Ellis Simms | 83 | EFL Championship | 30k coins | +8.1% | +0.8% |
 | Terry Devlin | 86 | EFL Championship | 27k coins | +8% | -10% |
-| Jaden Philogene | 84 | EFL Championship | 46k coins | +7.5% | -1.6% |
-| Brandon Thomas-Asante | 80 | EFL Championship | 45k coins | +5.9% | +5.9% |
-| Femi Seriki | 83 | EFL Championship | 35k coins | +3.6% | -29.4% |
+| Alan Browne | 84 | EFL Championship | 38k coins | +6.1% | -3.1% |
+| Brandon Thomas-Asante | 80 | EFL Championship | 45k coins | +5.9% | +9.8% |
+| Haji Wright | 84 | EFL Championship | 40k coins | +3.9% | +6.7% |
 
 
-A liderança absoluta das altas pertence a Jaden Philogene, cuja versão de rating 87 disparou impressionantes 56.1% em 24 horas, atingindo a marca de 24k coins, um movimento impulsionado pela sua probabilidade de alta de 50% que atraiu compradores agressivos buscando valorização rápida. Logo atrás, Leif Davis, com rating 84, registrou uma alta de 54.7% em 24 horas, subindo para 50k coins, consolidando-se como um ativo de maior ticket com forte tendência de continuidade devido à sua probabilidade de alta de 57%, o que o torna um alvo prioritário para estratégias de swing trading. George Dobson também se destaca no topo, com rating 84, sofrendo uma valorização de 39.5% em 24 horas e atingindo 40k coins, embora sua probabilidade de alta mais baixa de 26% sugira que este movimento pode ser mais reativo do que estrutural, exigindo cautela na hora de aumentar posições. Cameron Burgess, com rating 80, apresenta uma alta moderada de 14.5% em 24 horas, posicionando-se a 48k coins, um movimento que parece ser sustentado por uma demanda estável, já que sua probabilidade de alta é de apenas 4%, indicando que o preço atual pode estar próximo de um equilíbrio de mercado a curto prazo. Por fim, Emil Riis e Ellis Simms completam o quadro de altas relevantes, com Riis (84) subindo 9.4% para 40k coins e Simms (83) crescendo 8.1% para 30k coins, ambos com probabilidades de alta de 31% e 35% respectivamente, sugerindo que ainda há espaço para apreciação gradual nestes ativos de entrada intermediária.
+Cameron Burgess lidera as altas com um impressionante salto de 14.5% em 24 horas, atingindo os 48k coins, embora sua probabilidade de alta seja baixa em apenas 4%, o que indica que este movimento pode ser um pico isolado e não sustentável para holdings de longo prazo. Ellis Simms, com 83 de overall, subiu 8.1% para 30k coins e apresenta uma probabilidade de alta de 35%, sugerindo uma demanda crescente possivelmente ligada a promoções de equipe ou SBCs que valorizam seus atributos técnicos. Terry Devlin, uma carta de 86 de overall, registrou alta de 8% para 27k coins e carrega uma probabilidade de alta robusta de 60%, tornando-o um dos ativos mais promissores para acumulação imediata, já que o mercado ainda não precificou totalmente seu potencial de valorização futura. Alan Browne, com 84 de overall, avançou 6.1% para 38k coins com uma probabilidade de alta de 20%, um movimento moderado que reflete a estabilidade de sua cotação e a confiança dos traders em ativos de meia-entrada com bom custo-benefício. Brandon Thomas-Asante, ao 80 de overall, subiu 5.9% para 45k coins com probabilidade de alta de 16%, enquanto Haji Wright, de 84 overall, cresceu 3.9% para 40k coins com 48% de probabilidade de alta, indicando que Wright pode estar em fase de acumulação silenciosa antes de um movimento maior.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alan Browne | 84 | EFL Championship | 28k coins | -22.7% | -28% |
-| Tom Ince | 84 | EFL Championship | 35k coins | -19.9% | -7.2% |
-| Joe Gelhardt | 86 | EFL Championship | 25k coins | -14.5% | +42.9% |
-| Caleb Taylor | 84 | EFL Championship | 30k coins | -6.3% | -33.9% |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | -31.6% | -16.7% |
+| Tom Ince | 84 | EFL Championship | 32k coins | -26.7% | -19.4% |
+| Abdul Fatawu | 88 | EFL Championship | 20k coins | -14.9% | -13% |
+| Tristan Crama | 86 | EFL Championship | 27k coins | -9.2% | -9.2% |
+| Nicolas Madsen | 84 | EFL Championship | 37k coins | -8.4% | -10.6% |
+| Kieffer Moore | 83 | EFL Championship | 43k coins | -7.7% | +4.1% |
+| Femi Seriki | 83 | EFL Championship | 31k coins | -7.2% | -35.5% |
 | Conor Coady | 85 | EFL Championship | 28k coins | -5.8% | -5.8% |
-| Kieffer Moore | 83 | EFL Championship | 46k coins | -4.6% | +8% |
-| Nicolas Madsen | 84 | EFL Championship | 41k coins | -3.5% | -2.4% |
+| Adam Armstrong | 83 | EFL Championship | 26k coins | -5.4% | -11.7% |
+| Moussa Sissoko | 88 | EFL Championship | 337k coins | -5% | -7.5% |
 
 
-No outro extremo, Alan Browne lidera as quedas com um recuo de 22.7% em 24 horas, caindo para 28k coins, um movimento significativo que reflete uma correção de preço em um ativo de rating 84 que, apesar de ter uma probabilidade de alta de apenas 20%, pode estar se tornando atrativo para compradores de contramão que buscam fundos. Tom Ince, também com rating 84, registrou uma queda de 19.9% em 24 horas, atingindo 35k coins, e embora sua probabilidade de alta seja de 50%, a pressão vendedora recente sugere que o ativo ainda pode estar em fase de distribuição, exigindo confirmação de suporte antes de novas entradas. Joe Gelhardt, com rating 86, caiu 14.5% em 24 horas para 25k coins, e com uma probabilidade de alta de apenas 27%, este jogador parece estar enfrentando resistência de venda consistente, possivelmente devido a uma saturação de oferta ou falta de interesse em metadados específicos. Caleb Taylor, rating 84, recuou 6.3% em 24 horas para 30k coins, enquanto Conor Coady, rating 85, caiu 5.8% para 28k coins, ambos apresentando probabilidades de alta de 25% e 38% respectivamente, o que indica uma fraqueza estrutural que pode se estender caso não haja catalisadores externos para reverter a tendência. Kieffer Moore e Nicolas Madsen completam as quedas menores, com Moore (83) caindo 4.6% para 46k coins e Madsen (84) recuando 3.5% para 41k coins, sendo que Madsen possui uma probabilidade de alta de 55%, sugerindo que sua queda pode ser uma oportunidade de compra de valor em um ativo que ainda tem potencial estatístico para reverter.
+Joe Gelhardt sofreu a queda mais acentuada com -31.6% em 24 horas, caindo para 20k coins, mas ainda mantém uma probabilidade de alta de 27%, o que pode indicar uma oportunidade de compra de pânico se o trader acreditar na recuperação do ativo a médio prazo. Tom Ince, com 84 de overall, despencou 26.7% para 32k coins e possui uma probabilidade de alta de 50%, o que torna sua queda atual uma discrepância clara entre preço e valor fundamental, sugerindo forte potencial de rebote. Abdul Fatawu, uma carta de elite com 88 de overall, caiu 14.9% para 20k coins e tem apenas 16% de probabilidade de alta, sinalizando que a queda pode ser estrutural ou devido a notícias negativas sobre o jogador, devendo ser evitada por conservadores. Tristan Crama, de 86 overall, recuou 9.2% para 27k coins com 35% de probabilidade de alta, apresentando um risco calculado para traders agressivos que buscam entrada em defesas sólidas. Nicolas Madsen, com 84 overall, caiu 8.4% para 37k coins e tem alta probabilidade de alta de 55%, o que transforma sua queda atual em uma zona de compra atrativa, enquanto Kieffer Moore (-7.7% para 43k, 51% prob) e Femi Seriki (-7.2% para 31k, 2% prob) mostram divisões claras entre ativos com potencial de recuperação e aqueles em tendência de baixa.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje foca em acumular posições em Leif Davis e Jaden Philogene (87) devido às suas altas probabilidades de continuidade de tendência, enquanto se evita compras agressivas em Cameron Burgess, cuja baixa probabilidade de alta indica exaustão de movimento. É aconselhável observar Alan Browne e Tom Ince como potenciais alvos de compra de contramão, já que suas quedas acentuadas podem ter criado fundos de valor, especialmente considerando a probabilidade de alta de 50% de Ince. Traders devem ficar atentos a George Dobson, pois apesar da alta forte, a probabilidade baixa de 26% sugere que é hora de realizar lucros parciais e não aumentar posições. Evitar Joe Gelhardt e Caleb Taylor é prudente no curto prazo, dado o peso vendedor e as probabilidades de alta desfavoráveis, enquanto Nicolas Madsen pode ser monitorado para uma entrada futura devido à sua alta probabilidade de 55% combinada com uma queda recente. O timing ideal para operações de venda é no fechamento das principais bolsas de trading, aproveitando a liquidez do clima comprador, enquanto compras devem ser escalonadas para mitigar o risco de volatilidade intradiária.
+A estratégia recomendada para hoje foca na acumulação seletiva de ativos com alta probabilidade de valorização e queda recente, como Nicolas Madsen e Tom Ince, que oferecem margens de segurança e potencial de rebote significativo nos próximos dias. Deve-se evitar comprar Cameron Burgess no topo, dada sua baixa probabilidade de alta futura, e preferir segurar posições em Terry Devlin e Haji Wright, que mostram sinais claros de acumulação e alta probabilidade de continuidade positiva. Traders conservadores devem observar Abdul Fatawu e Brandon Thomas-Asante com cautela, pois suas probabilidades de alta são baixas, enquanto os agressivos podem testar posições pequenas em Joe Gelhardt, apostando na correção do preço após a queda abrupta. O timing de compra ideal é nas próximas horas, aproveitando a liquidez do mercado comprador para entrar em Ellis Simms e Alan Browne, que apresentam equilíbrio entre risco e retorno. É fundamental monitorar a média de 2.67% de alta do mercado como um indicador de saúde, ajustando as saídas conforme as probabilidades individuais de cada jogador se confirmam ou se invertem ao longo das próximas 24 horas.
 
 
 ## 🔍 Como apuramos os preços
@@ -74,13 +73,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Jaden Philogene (87, EFL Championship), com +56.1% em 24h, a 24k coins no PC.
+Cameron Burgess (80, EFL Championship), com +14.5% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**  
-Alan Browne (84), -22.7% em 24h, a 28k coins.
+Joe Gelhardt (86), -31.6% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 9 em queda (média 5.09%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 11 em queda (média 2.67%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
