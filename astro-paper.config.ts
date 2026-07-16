@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcchampionship.pages.dev/",
     title: "Championship Market",
     description:
-      "Precos e mercado da EFL Championship no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado da EFL Championship no EA FC Ultimate Team, todos os dias.",
     author: "Championship Market",
-    profile: "https://fcchampionship.pages.dev/",
+    profile: "https://fcchampionship.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Championship Market",
