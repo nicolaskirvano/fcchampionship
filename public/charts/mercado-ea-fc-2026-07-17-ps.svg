@@ -1,19 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="347" viewBox="0 0 900 347" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
 <title id="title">Variação em 24h: Mercado EA FC em 17/07: Championship — Console (PS)</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tristan Crama</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdul Fatawu</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Divin Mubama</text>
-<rect x="285" y="153" width="199" height="28" rx="7" fill="#22c55e"/>
-<text x="494" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Terry Devlin</text>
-<rect x="285" y="211" width="118" height="28" rx="7" fill="#22c55e"/>
-<text x="413" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
-<rect x="285" y="269" width="115" height="28" rx="7" fill="#22c55e"/>
-<text x="410" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tristan Crama</text>
+<rect x="285" y="153" width="108" height="28" rx="7" fill="#22c55e"/>
+<text x="403" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Divin Mubama</text>
+<rect x="285" y="211" width="68" height="28" rx="7" fill="#22c55e"/>
+<text x="363" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alan Browne</text>
+<rect x="285" y="269" width="43" height="28" rx="7" fill="#22c55e"/>
+<text x="338" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James McClean</text>
+<rect x="285" y="327" width="34" height="28" rx="7" fill="#22c55e"/>
+<text x="329" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+3.5%</text>
 </svg>
