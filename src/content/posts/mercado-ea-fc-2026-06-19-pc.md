@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Championship Market"
 pubDatetime: 2026-06-20T01:48:43.000Z
-title: "Championship no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Championship no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Nicolas Madsen (84, EFL Championship), com +44.3% em 24h, a 41k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Caleb Taylor (84), -28.6% em 24h, a 30k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 10 cartas em alta contra 8 em queda (média 4.01%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Nicolas Madsen liderou as altas e Caleb Taylor as baixas em Championship. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 13 cartas destacadas nas tabelas, **Nicolas Madsen** registrou o maior movimento de 24h (+44,3%), enquanto **Caleb Taylor** marcou o menor (-28,6%). A distância entre os extremos foi de **72,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+3,0%**: 7 destaques subiam e 6 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Championship no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de Championship no PC para o dia 19 de junho de 2026 apresenta um viés claramente alcista, com um sentimento de compra predominante entre os traders que estão apostando na valorização de ativos específicos da liga secundária inglesa. A análise dos dados revela uma assimetria interessante, onde 10 ativos registraram valorizações contra apenas 8 quedas, resultando em uma média ponderada de alta de 4,01% nas últimas 24 horas, o que indica liquidez concentrada em poucos nomes. Esse cenário sugere que os jogadores estão reagindo a rumores de final de temporada ou promoções de SBC que exigem jogadores de alto rating da Championship, criando uma distorção temporária nos preços de mercado. O trader deve estar atento a essa volatilidade, pois a força das altas em nomes como Nicolas Madsen e Imrân Louza demonstra que há capital inteligente entrando em posições de curto prazo, buscando lucros rápidos antes de uma possível correção. É um dia para agir com precisão cirúrgica, focando nos ativos com maior probabilidade de continuidade da tendência, evitando expor seu banco a ativos que já atingiram máximas locais sem suporte fundamental claro.
 
@@ -69,16 +74,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Nicolas Madsen (84, EFL Championship), com +44.3% em 24h, a 41k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Caleb Taylor (84), -28.6% em 24h, a 30k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 10 cartas em alta contra 8 em queda (média 4.01%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 10 cartas em alta contra 8 em queda (média 4.01%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -87,3 +92,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Championship no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Championship no EA FC em 20/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-20-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

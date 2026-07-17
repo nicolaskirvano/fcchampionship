@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Championship Market"
 pubDatetime: 2026-06-19T22:49:52.000Z
-title: "Melhores investimentos em Championship no EA FC (19/06/2026): análise e previsões — PC"
+title: "Momentum de Championship no EA FC em 19/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jordan Ayew (85, EFL Championship) lidera, com +32.8% em 7 dias a 42k coins no PC, e o modelo dá 55% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PC: Jordan Ayew liderou 7d com +32,8%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Jordan Ayew** liderou o recorte com **+32,8% em 7d** e +21,4% em 24h. Entre 4 cartas, 4 tinham as duas janelas positivas; a mediana semanal foi **+9,2%**.
+
+Os preços destacados iam de **42k coins** a **45k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Championship no EA FC em 19/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Jordan Ayew (85) acumula **+32.8% em 7 dias** a 42k coins.
 
@@ -41,9 +48,9 @@ Em síntese, a estratégia recomendada para 19/06/2026 envolve priorizar Jordan 
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jordan Ayew | 85 | EFL Championship | 42k coins | +21.4% | +32.8% | 55% |
 | Tom Ince | 84 | EFL Championship | 45k coins | +2.9% | +10% | 50% |
@@ -53,21 +60,21 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Jordan Ayew (85)** — 42k coins, **+32.8% em 7 dias** (+21.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jordan Ayew (85)** — 42k coins, **+32.8% em 7 dias** (+21.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Tom Ince (84)** — 45k coins, **+10% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Tom Ince (84)** — 45k coins, **+10% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+5%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Jaden Philogene (84)** — 42k coins, **+8.3% em 7 dias** (+22.3% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jaden Philogene (84)** — 42k coins, **+8.3% em 7 dias** (+22.3% em 24h). Preço -8% abaixo da média de 7 dias (descontada). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Imrân Louza (84)** — 43k coins, **+5.5% em 7 dias** (+20.8% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Imrân Louza (84)** — 43k coins, **+5.5% em 7 dias** (+20.8% em 24h). Preço em linha com a média de 7 dias (+6%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -76,13 +83,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jordan Ayew (85, EFL Championship) lidera, com +32.8% em 7 dias a 42k coins no PC, e o modelo dá 55% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Jordan Ayew (85, EFL Championship) lidera, com +32.8% em 7 dias a 42k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -91,3 +98,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Championship no EA FC em 19/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Championship no EA FC em 20/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-20-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

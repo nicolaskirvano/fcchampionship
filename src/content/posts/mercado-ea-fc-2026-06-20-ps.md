@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Championship Market"
 pubDatetime: 2026-06-21T01:47:55.000Z
-title: "Championship no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Championship no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Femi Seriki (83, EFL Championship), com +23.1% em 24h, a 56k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Leif Davis (84), -6.9% em 24h, a 36k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jordan Ayew (85) — 95% de probabilidade de alta, a 34k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 13 cartas em alta contra 6 em queda (média 1.44%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Femi Seriki liderou as altas e Leif Davis as baixas em Championship. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 11 cartas destacadas nas tabelas, **Femi Seriki** registrou o maior movimento de 24h (+23,1%), enquanto **Leif Davis** marcou o menor (-6,9%). A distância entre os extremos foi de **30,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+7,8%**: 9 destaques subiam e 2 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Championship no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -93,19 +96,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Femi Seriki (83, EFL Championship), com +23.1% em 24h, a 56k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Leif Davis (84), -6.9% em 24h, a 36k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jordan Ayew (85) — 95% de probabilidade de alta, a 34k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Jordan Ayew (85) — 95% de probabilidade de alta, a 34k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 13 cartas em alta contra 6 em queda (média 1.44%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -114,3 +117,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Championship no EA FC em 19/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-19-ps/)
+- [Championship no EA FC em 18/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-18-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

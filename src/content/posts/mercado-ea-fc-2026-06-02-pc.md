@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Championship Market"
 pubDatetime: 2026-06-02T13:47:03.000Z
-title: "Championship no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Championship no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Jaden Philogene (87, EFL Championship), com +38.8% em 24h, a 28k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Cameron Burgess (80), -44.4% em 24h, a 24k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 2 cartas em alta contra 28 em queda (média -5.09%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Jaden Philogene liderou as altas e Cameron Burgess as baixas em Championship. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **2 subiram** e **28 caíram**, com variação média de **-5.09%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 6 cartas destacadas nas tabelas, **Jaden Philogene** registrou o maior movimento de 24h (+38,8%), enquanto **Cameron Burgess** marcou o menor (-44,4%). A distância entre os extremos foi de **83,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-6,7%**: 2 destaques subiam e 4 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Championship no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **2 subiram** e **28 caíram**, com variação média de **-5.09%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Jaden Philogene (87) **+38.8%** · 🔴 **Maior baixa:** Cameron Burgess (80) **-44.4%**
 
@@ -38,9 +43,9 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Jaden Philogene (87)** subiu **+38.8%** em 24h, a **28k coins** (faixa do dia: 18k–40k). Está +59% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Jaden Philogene (87)** subiu **+38.8%** em 24h, a **28k coins** (faixa do dia: 18k–40k). Está +59% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Victor Torp (80)** subiu **+8.6%** em 24h, a **47k coins** (faixa do dia: 44k–47k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
+- **Victor Torp (80)** subiu **+8.6%** em 24h, a **47k coins** (faixa do dia: 44k–47k). Está em linha com a média de 7 dias (+3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -55,11 +60,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Cameron Burgess (80)** caiu **-44.4%** em 24h, a **24k coins** (faixa do dia: 24k–47k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Cameron Burgess (80)** caiu **-44.4%** em 24h, a **24k coins** (faixa do dia: 24k–47k). Está -41% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Moussa Sissoko (88)** caiu **-10.1%** em 24h, a **311k coins** (faixa do dia: 311k–346k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
+- **Moussa Sissoko (88)** caiu **-10.1%** em 24h, a **311k coins** (faixa do dia: 311k–346k). Está em linha com a média de 7 dias (-6%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Brandon Thomas-Asante (80)** caiu **-7.3%** em 24h, a **32k coins** (faixa do dia: 32k–34k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Brandon Thomas-Asante (80)** caiu **-7.3%** em 24h, a **32k coins** (faixa do dia: 32k–34k). Está -20% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -69,16 +74,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Jaden Philogene (87, EFL Championship), com +38.8% em 24h, a 28k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Cameron Burgess (80), -44.4% em 24h, a 24k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 2 cartas em alta contra 28 em queda (média -5.09%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 2 cartas em alta contra 28 em queda (média -5.09%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -87,3 +92,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Championship baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Championship no EA FC em 20/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-20-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

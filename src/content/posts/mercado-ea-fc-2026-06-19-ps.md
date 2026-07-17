@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Championship Market"
 pubDatetime: 2026-06-20T01:47:47.000Z
-title: "Championship no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Championship no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "George Dobson (84, EFL Championship), com +22.8% em 24h, a 48k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Caleb Taylor (84), -26.4% em 24h, a 33k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 10 em queda (média -0.9%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: George Dobson liderou as altas e Caleb Taylor as baixas em Championship. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 12 cartas destacadas nas tabelas, **George Dobson** registrou o maior movimento de 24h (+22,8%), enquanto **Caleb Taylor** marcou o menor (-26,4%). A distância entre os extremos foi de **49,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-4,2%**: 5 destaques subiam e 7 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Championship no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado do EA FC Ultimate Team em Console PS para o segmento Championship encontra-se em uma fase de correção acentuada nesta segunda-feira, 19 de junho de 2026, caracterizada por um sentimento predominantemente negativo que reflete a cautela dos traders e a falta de catalisadores imediatos para impulsionar os preços. Com uma distribuição assimétrica de movimentos, observamos apenas seis altas contra dez quedas significativas nas últimas 24 horas, resultando em uma média geral negativa de -0.9%, o que indica que a pressão vendedora está claramente dominando a liquidez disponível. Este cenário de baixa generalizada exige uma leitura atenta dos fundamentos de cada jogador, pois nem todas as quedas representam oportunidades de compra, nem todas as altas garantem sustentabilidade, especialmente em um mercado onde a probabilidade de alta varia drasticamente entre os ativos. A volatilidade está concentrada em nomes específicos que reagem a notícias de última hora ou a ajustes de oferta e demanda, enquanto a maioria dos cards permanece estagnada ou em declínio suave, sugerindo que o momento ideal para agressividade no trading ainda não chegou. Portanto, a estratégia para hoje deve focar na preservação de capital e na identificação de pontos de compra em ativos de alta probabilidade que estão sendo vendidos por pânico, evitando expor o portfólio a ativos com alta probabilidade de continuação da queda.
 
@@ -81,16 +86,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 George Dobson (84, EFL Championship), com +22.8% em 24h, a 48k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Caleb Taylor (84), -26.4% em 24h, a 33k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 6 cartas em alta contra 10 em queda (média -0.9%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 6 cartas em alta contra 10 em queda (média -0.9%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -99,3 +104,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Championship no EA FC em 20/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-20-ps/)
+- [Championship no EA FC em 18/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-18-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
