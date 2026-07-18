@@ -6,11 +6,11 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Femi Seriki</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Brandon Thomas-Asante</text>
-<rect x="285" y="153" width="159" height="28" rx="7" fill="#22c55e"/>
-<text x="454" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Victor Torp</text>
-<rect x="285" y="211" width="153" height="28" rx="7" fill="#22c55e"/>
-<text x="448" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kieffer Moore</text>
+<rect x="285" y="153" width="109" height="28" rx="7" fill="#22c55e"/>
+<text x="404" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moussa Sissoko</text>
+<rect x="285" y="211" width="48" height="28" rx="7" fill="#22c55e"/>
+<text x="343" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.4%</text>
 </svg>
