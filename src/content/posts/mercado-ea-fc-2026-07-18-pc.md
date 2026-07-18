@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:47:17.000Z
+pubDatetime: 2026-07-18T13:47:16.000Z
 title: "Mercado EA FC em 18/07: Championship — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "George Dobson (84, EFL Championship), com +24.3% em 24h, a 47k coins no PC."
+    a: "Jordan Ayew (85, EFL Championship), com +30.4% em 24h, a 45k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Moussa Sissoko (88), -32.1% em 24h, a 233k coins."
+    a: "Moussa Sissoko (88), -32.1% em 24h, a 235k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 5 cartas em alta contra 13 em queda (média -2.04%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 7 cartas em alta contra 9 em queda (média 0.95%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **18/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **5 em alta** e **13 em queda**, média de **-2.04%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **18/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **7 em alta** e **9 em queda**, média de **0.95%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** George Dobson (84) **+24.3%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-32.1%**
+> 🟢 **Maior alta:** Jordan Ayew (85) **+30.4%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-32.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Championship — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,18 +35,20 @@ Panorama de **18/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 56.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 27.8% entre as cartas que se moveram; o universo observado reúne 29 cartas.
-- **Concentração:** EFL Championship aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 62.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 26 cartas.
+- **Concentração:** EFL Championship aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Jordan Ayew | 85 | EFL Championship | 45k coins | +30.4% | +50% |
 | George Dobson | 84 | EFL Championship | 47k coins | +24.3% | +5.6% |
-| Emil Riis | 84 | EFL Championship | 41k coins | +16.2% | -2.9% |
-| Terry Devlin | 86 | EFL Championship | 40k coins | +3.9% | +20.6% |
-| Jaden Philogene | 84 | EFL Championship | 62k coins | +3.3% | 0% |
+| Emil Riis | 84 | EFL Championship | 40k coins | +14.1% | -4.7% |
+| Femi Seriki | 83 | EFL Championship | 74k coins | +11.2% | -0.7% |
+| Tom Ince | 84 | EFL Championship | 44k coins | +10.1% | -1.7% |
+| James McClean | 87 | EFL Championship | 31k coins | +5% | -3.8% |
 
 
 ### Análise das altas
@@ -55,37 +57,39 @@ Panorama de **18/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **George Dobson (84)** subiu **+24.3%** em 24h, a **47k coins** (faixa do dia: 34k–48k). Está +14% acima da média de 7 dias (aquecida).
+- **Jordan Ayew (85)** subiu **+30.4%** em 24h, a **45k coins** (faixa do dia: 34k–45k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Emil Riis (84)** subiu **+16.2%** em 24h, a **41k coins** (faixa do dia: 34k–42k). Está em linha com a média de 7 dias (+4%).
+- **George Dobson (84)** subiu **+24.3%** em 24h, a **47k coins** (faixa do dia: 34k–48k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Terry Devlin (86)** subiu **+3.9%** em 24h, a **40k coins** (faixa do dia: 38k–50k). Está -14% abaixo da média de 7 dias (descontada).
+- **Emil Riis (84)** subiu **+14.1%** em 24h, a **40k coins** (faixa do dia: 34k–42k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 233k coins | -32.1% | -30.7% |
-| Haji Wright | 84 | EFL Championship | 39k coins | -11.4% | -3.7% |
-| Kieffer Moore | 88 | EFL Championship | 58k coins | -10.9% | +28.5% |
+| Moussa Sissoko | 88 | EFL Championship | 235k coins | -32.1% | -30.5% |
+| Tristan Crama | 86 | EFL Championship | 38k coins | -25% | +2% |
+| Imrân Louza | 84 | EFL Championship | 37k coins | -21.7% | -12.9% |
+| Haji Wright | 84 | EFL Championship | 38k coins | -11% | -1.9% |
 | Conor Coady | 85 | EFL Championship | 28k coins | -8.3% | -8.3% |
-| Leif Davis | 84 | EFL Championship | 54k coins | -7.7% | +43% |
-| Tristan Crama | 86 | EFL Championship | 46k coins | -6% | +27.9% |
+| Leif Davis | 84 | EFL Championship | 52k coins | -7.7% | +43% |
+| Kieffer Moore | 88 | EFL Championship | 56k coins | -6.6% | +27.4% |
+| Jaden Philogene | 84 | EFL Championship | 60k coins | -6.2% | -6.2% |
 
 
 ### Análise das baixas
 
-- **Moussa Sissoko (88)** caiu **-32.1%** em 24h, a **233k coins** (faixa do dia: 208k–346k). Está -28% abaixo da média de 7 dias (descontada).
+- **Moussa Sissoko (88)** caiu **-32.1%** em 24h, a **235k coins** (faixa do dia: 208k–346k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Haji Wright (84)** caiu **-11.4%** em 24h, a **39k coins** (faixa do dia: 38k–44k). Está -11% abaixo da média de 7 dias (descontada).
+- **Tristan Crama (86)** caiu **-25%** em 24h, a **38k coins** (faixa do dia: 38k–50k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Kieffer Moore (88)** caiu **-10.9%** em 24h, a **58k coins** (faixa do dia: 14.500–70k). Está +14% acima da média de 7 dias (aquecida).
+- **Imrân Louza (84)** caiu **-21.7%** em 24h, a **37k coins** (faixa do dia: 37k–47k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** George Dobson já avançou 24.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jordan Ayew já avançou 30.4% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Moussa Sissoko recuou -32.1%; confirme estabilização e liquidez.
 
@@ -99,13 +103,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-George Dobson (84, EFL Championship), com +24.3% em 24h, a 47k coins no PC.
+Jordan Ayew (85, EFL Championship), com +30.4% em 24h, a 45k coins no PC.
 
 **E a maior queda do dia?**
-Moussa Sissoko (88), -32.1% em 24h, a 233k coins.
+Moussa Sissoko (88), -32.1% em 24h, a 235k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 5 cartas em alta contra 13 em queda (média -2.04%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 7 cartas em alta contra 9 em queda (média 0.95%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
