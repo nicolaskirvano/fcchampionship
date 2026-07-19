@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:34:56.000Z
+pubDatetime: 2026-07-19T10:47:08.000Z
 title: "Investimentos EA FC: Championship em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -46,7 +46,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Abdul Fatawu | 88 | EFL Championship | 17.500 coins | +34.9% | +41.7% | Esticada |
 | Emil Riis | 84 | EFL Championship | 41k coins | +14.8% | +21.6% | Momentum moderado |
 | Tristan Crama | 86 | EFL Championship | 41k coins | +18.1% | +14% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 30k coins | +11.2% | +8.3% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 39k coins | +11.2% | +8.3% | Momentum moderado |
 | Imrân Louza | 84 | EFL Championship | 43k coins | +6.3% | +6.9% | Momentum moderado |
 
 
@@ -58,7 +58,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Tristan Crama (86)** — 41k coins, **+14% em 7 dias** (+18.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolas Madsen (84)** — 30k coins, **+8.3% em 7 dias** (+11.2% em 24h). Preço -30% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Madsen (84)** — 39k coins, **+8.3% em 7 dias** (+11.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Imrân Louza (84)** — 43k coins, **+6.9% em 7 dias** (+6.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:34:54.000Z
+pubDatetime: 2026-07-19T10:47:07.000Z
 title: "Mercado EA FC em 19/07: Championship — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
     a: "Finn Azaz (88, EFL Championship), com +52.7% em 24h, a 52k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Moussa Sissoko (88), -14.3% em 24h, a 183k coins."
+    a: "Leif Davis (84), -5% em 24h, a 38k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 10 cartas em alta contra 3 em queda (média 11.07%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 2 em queda (média 11.94%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **10 cartas subiram** e **3 caíram** (80+ acima de 5k coins), variação média de **11.07%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **11 cartas subiram** e **2 caíram** (80+ acima de 5k coins), variação média de **11.94%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Finn Azaz (88) **+52.7%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-14.3%**
+> 🟢 **Maior alta:** Finn Azaz (88) **+52.7%** · 🔴 **Maior baixa:** Leif Davis (84) **-5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Championship — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,9 +35,9 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 67.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 76.9% entre as cartas que se moveram; o universo observado reúne 20 cartas.
-- **Concentração:** EFL Championship aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 57.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 84.6% entre as cartas que se moveram; o universo observado reúne 20 cartas.
+- **Concentração:** EFL Championship aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
@@ -47,8 +47,10 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta
 | Jaden Philogene | 84 | EFL Championship | 56k coins | +21.1% | +2.8% |
 | Tristan Crama | 86 | EFL Championship | 41k coins | +18.1% | +14% |
 | Emil Riis | 84 | EFL Championship | 41k coins | +14.8% | +21.6% |
+| Nicolas Madsen | 84 | EFL Championship | 39k coins | +11.2% | +8.3% |
 | Imrân Louza | 84 | EFL Championship | 43k coins | +6.3% | +6.9% |
-| James McClean | 87 | EFL Championship | 36k coins | +5.3% | +2.9% |
+| Moussa Sissoko | 88 | EFL Championship | 209k coins | +4.6% | -7.6% |
+| James McClean | 87 | EFL Championship | 34k coins | +3.8% | +1.5% |
 | Cameron Burgess | 80 | EFL Championship | 46k coins | +3.3% | -2.1% |
 
 
@@ -69,13 +71,10 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 183k coins | -14.3% | -24.2% |
 | Leif Davis | 84 | EFL Championship | 38k coins | -5% | -0.7% |
 
 
 ### Análise das baixas
-
-- **Moussa Sissoko (88)** caiu **-14.3%** em 24h, a **183k coins** (faixa do dia: 149k–250k). Está -14% abaixo da média de 7 dias (descontada).
 
 - **Leif Davis (84)** caiu **-5%** em 24h, a **38k coins** (faixa do dia: 33k–45k). Está em linha com a média de 7 dias (-3%).
 
@@ -84,7 +83,7 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta
 
 - **Evite perseguir topo:** Finn Azaz já avançou 52.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Moussa Sissoko recuou -14.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Leif Davis recuou -5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,10 +107,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Finn Azaz (88, EFL Championship), com +52.7% em 24h, a 52k coins no Console (PS).
 
 **E a maior queda do dia?**
-Moussa Sissoko (88), -14.3% em 24h, a 183k coins.
+Leif Davis (84), -5% em 24h, a 38k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 10 cartas em alta contra 3 em queda (média 11.07%).
+Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 2 em queda (média 11.94%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
