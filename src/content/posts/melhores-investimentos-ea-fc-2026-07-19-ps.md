@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:47:08.000Z
+pubDatetime: 2026-07-19T16:47:08.000Z
 title: "Investimentos EA FC: Championship em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Finn Azaz (88, EFL Championship) lidera, com +21.1% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Finn Azaz (88, EFL Championship) lidera, com +31.6% em 7 dias a 51k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Finn Azaz (88) acumula **+21.1% em 7 dias** a 44k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Finn Azaz (88) acumula **+31.6% em 7 dias** a 51k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.1% em 24h** e **+18.7% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+28.4% em 24h** e **+28.1% em 7 dias**.
+- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Finn Azaz | 88 | EFL Championship | 44k coins | +17.1% | +21.1% | Momentum moderado |
-| Emil Riis | 84 | EFL Championship | 41k coins | +14.8% | +20.7% | Momentum moderado |
-| Terry Devlin | 86 | EFL Championship | 44k coins | +19% | +16.7% | Momentum moderado |
-| Tom Ince | 84 | EFL Championship | 50k coins | +22.4% | +14.3% | Esticada |
+| Finn Azaz | 88 | EFL Championship | 51k coins | +34.2% | +31.6% | Esticada |
+| James McClean | 87 | EFL Championship | 38k coins | +31.7% | +28.5% | Esticada |
+| Jordan Ayew | 85 | EFL Championship | 39k coins | +25% | +27.8% | Esticada |
+| Emil Riis | 84 | EFL Championship | 41k coins | +14% | +20.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Finn Azaz (88)** — 44k coins, **+21.1% em 7 dias** (+17.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Finn Azaz (88)** — 51k coins, **+31.6% em 7 dias** (+34.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emil Riis (84)** — 41k coins, **+20.7% em 7 dias** (+14.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James McClean (87)** — 38k coins, **+28.5% em 7 dias** (+31.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Terry Devlin (86)** — 44k coins, **+16.7% em 7 dias** (+19% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Ayew (85)** — 39k coins, **+27.8% em 7 dias** (+25% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tom Ince (84)** — 50k coins, **+14.3% em 7 dias** (+22.4% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emil Riis (84)** — 41k coins, **+20.7% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +84,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Finn Azaz (88, EFL Championship) lidera, com +21.1% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Finn Azaz (88, EFL Championship) lidera, com +31.6% em 7 dias a 51k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
