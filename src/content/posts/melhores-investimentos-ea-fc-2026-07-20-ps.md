@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:47:08.000Z
+pubDatetime: 2026-07-20T16:47:08.000Z
 title: "Investimentos EA FC: Championship em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Terry Devlin (86, EFL Championship) lidera, com +30.3% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolas Madsen (84, EFL Championship) lidera, com +22.1% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Terry Devlin (86) acumula **+30.3% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nicolas Madsen (84) acumula **+22.1% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.2% em 24h** e **+8.2% em 7 dias**.
+- A mediana é de **+11.4% em 24h** e **+8.4% em 7 dias**.
 - **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Terry Devlin | 86 | EFL Championship | 50k coins | +11.2% | +30.3% | Momentum moderado |
-| Jordan Ayew | 85 | EFL Championship | 42k coins | +27.8% | +28.8% | Esticada |
-| Alan Browne | 84 | EFL Championship | 50k coins | +17.8% | +8.2% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 40k coins | +16.2% | +5.3% | Momentum moderado |
-| Tom Ince | 84 | EFL Championship | 52k coins | +5.5% | +5% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 50k coins | +17.8% | +22.1% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 40k coins | +10% | +10.7% | Momentum moderado |
+| Emil Riis | 84 | EFL Championship | 39k coins | +7.6% | +8.4% | Momentum moderado |
+| Tristan Crama | 86 | EFL Championship | 42k coins | +23.6% | +8.1% | Esticada |
+| Haji Wright | 84 | EFL Championship | 39k coins | +11.4% | +6.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Terry Devlin (86)** — 50k coins, **+30.3% em 7 dias** (+11.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Madsen (84)** — 50k coins, **+22.1% em 7 dias** (+17.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Ayew (85)** — 42k coins, **+28.8% em 7 dias** (+27.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 40k coins, **+10.7% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alan Browne (84)** — 50k coins, **+8.2% em 7 dias** (+17.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emil Riis (84)** — 39k coins, **+8.4% em 7 dias** (+7.6% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 40k coins, **+5.3% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 42k coins, **+8.1% em 7 dias** (+23.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tom Ince (84)** — 52k coins, **+5% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haji Wright (84)** — 39k coins, **+6.1% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Terry Devlin (86, EFL Championship) lidera, com +30.3% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolas Madsen (84, EFL Championship) lidera, com +22.1% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
