@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:47:07.000Z
+pubDatetime: 2026-07-20T13:47:07.000Z
 title: "Mercado EA FC em 20/07: Championship — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Femi Seriki (83, EFL Championship), com +28.1% em 24h, a 86k coins no Console (PS)."
+    a: "Kieffer Moore (88, EFL Championship), com +44.9% em 24h, a 37k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tom Ince (84), -12.5% em 24h, a 52k coins."
+    a: "Imrân Louza (84), -17.6% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 10 em queda (média 4.69%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 6 em queda (média 7.33%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **11 valorizações** contra **10 quedas** entre as cartas relevantes, com média de **4.69%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **11 valorizações** contra **6 quedas** entre as cartas relevantes, com média de **7.33%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Femi Seriki (83) **+28.1%** · 🔴 **Maior baixa:** Tom Ince (84) **-12.5%**
+> 🟢 **Maior alta:** Kieffer Moore (88) **+44.9%** · 🔴 **Maior baixa:** Imrân Louza (84) **-17.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Championship — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,19 +35,24 @@ Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 40.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.4% entre as cartas que se moveram; o universo observado reúne 29 cartas.
-- **Concentração:** EFL Championship aparece em 11 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 62.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.7% entre as cartas que se moveram; o universo observado reúne 23 cartas.
+- **Concentração:** EFL Championship aparece em 15 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Femi Seriki | 83 | EFL Championship | 86k coins | +28.1% | +53.1% |
-| Jordan Ayew | 85 | EFL Championship | 42k coins | +27.8% | +27.8% |
-| Moussa Sissoko | 88 | EFL Championship | 185k coins | +17.5% | +12% |
-| James McClean | 87 | EFL Championship | 39k coins | +15.4% | +27.6% |
-| Jaden Philogene | 87 | EFL Championship | 38k coins | +8.7% | 0% |
+| Kieffer Moore | 88 | EFL Championship | 37k coins | +44.9% | +47.1% |
+| Abdul Fatawu | 88 | EFL Championship | 20k coins | +38.7% | +4.9% |
+| Brandon Thomas-Asante | 80 | EFL Championship | 44k coins | +29% | -6.3% |
+| Jordan Ayew | 85 | EFL Championship | 42k coins | +27.8% | +28.8% |
+| Femi Seriki | 83 | EFL Championship | 80k coins | +26.2% | +34.7% |
+| Alan Browne | 84 | EFL Championship | 50k coins | +17.8% | +8.2% |
+| Haji Wright | 84 | EFL Championship | 40k coins | +16.2% | +5.3% |
+| Terry Devlin | 86 | EFL Championship | 50k coins | +11.2% | +30.3% |
+| Tom Ince | 84 | EFL Championship | 52k coins | +5.5% | +5% |
+| Adam Armstrong | 83 | EFL Championship | 30k coins | +4.3% | 0% |
 
 
 ### Análise das altas
@@ -56,39 +61,38 @@ Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Femi Seriki (83)** subiu **+28.1%** em 24h, a **86k coins** (faixa do dia: 60k–86k). Está +24% acima da média de 7 dias (aquecida).
+- **Kieffer Moore (88)** subiu **+44.9%** em 24h, a **37k coins** (faixa do dia: 32k–56k). Está em linha com a média de 7 dias (-3%).
 
-- **Jordan Ayew (85)** subiu **+27.8%** em 24h, a **42k coins** (faixa do dia: 26k–42k). Está +18% acima da média de 7 dias (aquecida).
+- **Abdul Fatawu (88)** subiu **+38.7%** em 24h, a **20k coins** (faixa do dia: 15.500–24k). Está em linha com a média de 7 dias (-1%).
 
-- **Moussa Sissoko (88)** subiu **+17.5%** em 24h, a **185k coins** (faixa do dia: 163k–250k). Está -14% abaixo da média de 7 dias (descontada).
+- **Brandon Thomas-Asante (80)** subiu **+29%** em 24h, a **44k coins** (faixa do dia: 34k–48k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tom Ince | 84 | EFL Championship | 52k coins | -12.5% | +5% |
-| George Dobson | 84 | EFL Championship | 38k coins | -11.2% | -6.2% |
-| Terry Devlin | 86 | EFL Championship | 39k coins | -10.3% | +3.3% |
-| Leif Davis | 84 | EFL Championship | 38k coins | -6.2% | -6.2% |
-| Emil Riis | 84 | EFL Championship | 39k coins | -4.3% | +9.9% |
-| Caleb Taylor | 84 | EFL Championship | 74k coins | -3.9% | +88.6% |
+| Imrân Louza | 84 | EFL Championship | 36k coins | -17.6% | -19.8% |
+| Emil Riis | 84 | EFL Championship | 39k coins | -14.1% | -2.1% |
+| Jaden Philogene | 84 | EFL Championship | 50k coins | -10.7% | -11.5% |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | -4.5% | +6.2% |
+| Moussa Sissoko | 88 | EFL Championship | 183k coins | -4.3% | -7.3% |
 
 
 ### Análise das baixas
 
-- **Tom Ince (84)** caiu **-12.5%** em 24h, a **52k coins** (faixa do dia: 38k–60k). Está em linha com a média de 7 dias (-1%).
+- **Imrân Louza (84)** caiu **-17.6%** em 24h, a **36k coins** (faixa do dia: 36k–50k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **George Dobson (84)** caiu **-11.2%** em 24h, a **38k coins** (faixa do dia: 33k–55k). Está -9% abaixo da média de 7 dias (descontada).
+- **Emil Riis (84)** caiu **-14.1%** em 24h, a **39k coins** (faixa do dia: 32k–45k). Está em linha com a média de 7 dias (+0%).
 
-- **Terry Devlin (86)** caiu **-10.3%** em 24h, a **39k coins** (faixa do dia: 33k–56k). Está em linha com a média de 7 dias (-3%).
+- **Jaden Philogene (84)** caiu **-10.7%** em 24h, a **50k coins** (faixa do dia: 42k–56k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Femi Seriki já avançou 28.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kieffer Moore já avançou 44.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tom Ince recuou -12.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Imrân Louza recuou -17.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -100,13 +104,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Femi Seriki (83, EFL Championship), com +28.1% em 24h, a 86k coins no Console (PS).
+Kieffer Moore (88, EFL Championship), com +44.9% em 24h, a 37k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tom Ince (84), -12.5% em 24h, a 52k coins.
+Imrân Louza (84), -17.6% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 10 em queda (média 4.69%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 6 em queda (média 7.33%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
