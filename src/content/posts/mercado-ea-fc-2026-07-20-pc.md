@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:34:41.000Z
+pubDatetime: 2026-07-20T10:47:16.000Z
 title: "Mercado EA FC em 20/07: Championship — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Joe Gelhardt (86), -47.2% em 24h, a 23k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 10 cartas em alta contra 8 em queda (média 0.72%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 9 cartas em alta contra 9 em queda (média 0.88%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **10 valorizações** contra **8 quedas** entre as cartas relevantes, com média de **0.72%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **9 valorizações** contra **9 quedas** entre as cartas relevantes, com média de **0.88%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Jaden Philogene (84) **+38.3%** · 🔴 **Maior baixa:** Joe Gelhardt (86) **-47.2%**
 
@@ -36,7 +36,7 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 85.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.6% entre as cartas que se moveram; o universo observado reúne 28 cartas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 28 cartas.
 - **Concentração:** EFL Championship aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -70,8 +70,8 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Joe Gelhardt | 86 | EFL Championship | 23k coins | -47.2% | -34.5% |
-| Imrân Louza | 84 | EFL Championship | 32k coins | -28.3% | -32.1% |
 | Tristan Crama | 86 | EFL Championship | 31k coins | -26.5% | -30.6% |
+| Imrân Louza | 84 | EFL Championship | 32k coins | -21.8% | -32.1% |
 | Haji Wright | 84 | EFL Championship | 41k coins | -18% | +7.2% |
 | Kieffer Moore | 88 | EFL Championship | 40k coins | -8% | -15.8% |
 | Finn Azaz | 88 | EFL Championship | 31k coins | -6.1% | -3.1% |
@@ -81,9 +81,9 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 
 - **Joe Gelhardt (86)** caiu **-47.2%** em 24h, a **23k coins** (faixa do dia: 19.750–45k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Imrân Louza (84)** caiu **-28.3%** em 24h, a **32k coins** (faixa do dia: 32k–41k). Está -23% abaixo da média de 7 dias (descontada).
-
 - **Tristan Crama (86)** caiu **-26.5%** em 24h, a **31k coins** (faixa do dia: 28k–50k). Está -26% abaixo da média de 7 dias (descontada).
+
+- **Imrân Louza (84)** caiu **-21.8%** em 24h, a **32k coins** (faixa do dia: 32k–41k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -108,7 +108,7 @@ Jaden Philogene (84, EFL Championship), com +38.3% em 24h, a 65k coins no PC.
 Joe Gelhardt (86), -47.2% em 24h, a 23k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 10 cartas em alta contra 8 em queda (média 0.72%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 9 cartas em alta contra 9 em queda (média 0.88%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

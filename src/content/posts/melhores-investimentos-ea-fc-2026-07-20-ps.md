@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:34:33.000Z
+pubDatetime: 2026-07-20T10:47:08.000Z
 title: "Investimentos EA FC: Championship em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "James McClean (87, EFL Championship) lidera, com +29.3% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jordan Ayew (85, EFL Championship) lidera, com +27.8% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** James McClean (87) acumula **+29.3% em 7 dias** a 39k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Jordan Ayew (85) acumula **+27.8% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.5% em 24h** e **+26.1% em 7 dias**.
-- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+22.6% em 24h** e **+26.0% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| James McClean | 87 | EFL Championship | 39k coins | +16.9% | +29.3% | Momentum moderado |
 | Jordan Ayew | 85 | EFL Championship | 42k coins | +27.8% | +27.8% | Esticada |
+| James McClean | 87 | EFL Championship | 39k coins | +15.4% | +27.6% | Momentum moderado |
 | Nicolas Madsen | 84 | EFL Championship | 65k coins | +30.8% | +24.4% | Esticada |
-| Moussa Sissoko | 88 | EFL Championship | 197k coins | +25.1% | +19.3% | Esticada |
+| Moussa Sissoko | 88 | EFL Championship | 185k coins | +17.5% | +12% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **James McClean (87)** — 39k coins, **+29.3% em 7 dias** (+16.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Jordan Ayew (85)** — 42k coins, **+27.8% em 7 dias** (+27.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **James McClean (87)** — 39k coins, **+27.6% em 7 dias** (+15.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nicolas Madsen (84)** — 65k coins, **+24.4% em 7 dias** (+30.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moussa Sissoko (88)** — 197k coins, **+19.3% em 7 dias** (+25.1% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Sissoko (88)** — 185k coins, **+12% em 7 dias** (+17.5% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-James McClean (87, EFL Championship) lidera, com +29.3% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jordan Ayew (85, EFL Championship) lidera, com +27.8% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
