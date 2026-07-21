@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:47:16.000Z
+pubDatetime: 2026-07-21T19:47:16.000Z
 title: "Mercado EA FC em 21/07: Championship — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Terry Devlin (86, EFL Championship), com +42.9% em 24h, a 50k coins no PC."
+    a: "Terry Devlin (86, EFL Championship), com +56.2% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Abdul Fatawu (88), -37% em 24h, a 22k coins."
+    a: "Femi Seriki (83), -25.9% em 24h, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 7 cartas em alta contra 7 em queda (média -0.62%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 10 cartas em alta contra 7 em queda (média -1.7%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **7 subiram**, **7 caíram** (80+ e 5k+ coins), média de **-0.62%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **10 subiram**, **7 caíram** (80+ e 5k+ coins), média de **-1.7%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Terry Devlin (86) **+42.9%** · 🔴 **Maior baixa:** Abdul Fatawu (88) **-37%**
+> 🟢 **Maior alta:** Terry Devlin (86) **+56.2%** · 🔴 **Maior baixa:** Femi Seriki (83) **-25.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Championship — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,18 +35,23 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 79.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 27 cartas.
-- **Concentração:** EFL Championship aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 82.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.8% entre as cartas que se moveram; o universo observado reúne 30 cartas.
+- **Concentração:** EFL Championship aparece em 11 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Terry Devlin | 86 | EFL Championship | 50k coins | +42.9% | +0.5% |
-| Imrân Louza | 84 | EFL Championship | 46k coins | +32.9% | -1.6% |
-| Leif Davis | 84 | EFL Championship | 49k coins | +8% | -9.8% |
-| Finn Azaz | 88 | EFL Championship | 32k coins | +3.2% | -36.6% |
+| Terry Devlin | 86 | EFL Championship | 50k coins | +56.2% | +0.5% |
+| Imrân Louza | 84 | EFL Championship | 48k coins | +35.7% | +0.5% |
+| Nicolas Madsen | 84 | EFL Championship | 49k coins | +29.1% | +8.9% |
+| James McClean | 87 | EFL Championship | 46k coins | +14.4% | +50% |
+| Jaden Philogene | 87 | EFL Championship | 60k coins | +12.1% | +84.6% |
+| Finn Azaz | 88 | EFL Championship | 33k coins | +6.5% | -34.7% |
+| Leif Davis | 84 | EFL Championship | 47k coins | +5.5% | -13.8% |
+| Caleb Taylor | 84 | EFL Championship | 50k coins | +3.7% | +3.7% |
+| Kieffer Moore | 83 | EFL Championship | 41k coins | +3.1% | -17.5% |
 
 
 ### Análise das altas
@@ -55,38 +60,33 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Terry Devlin (86)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +11% acima da média de 7 dias (aquecida).
+- **Terry Devlin (86)** subiu **+56.2%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Imrân Louza (84)** subiu **+32.9%** em 24h, a **46k coins** (faixa do dia: 35k–48k). Está +13% acima da média de 7 dias (aquecida).
+- **Imrân Louza (84)** subiu **+35.7%** em 24h, a **48k coins** (faixa do dia: 35k–48k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Leif Davis (84)** subiu **+8%** em 24h, a **49k coins** (faixa do dia: 38k–58k). Está em linha com a média de 7 dias (-1%).
+- **Nicolas Madsen (84)** subiu **+29.1%** em 24h, a **49k coins** (faixa do dia: 34k–49k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | EFL Championship | 22k coins | -37% | +35.3% |
-| Tom Ince | 84 | EFL Championship | 34k coins | -25.8% | -37.3% |
-| Femi Seriki | 83 | EFL Championship | 52k coins | -23.9% | -7.9% |
-| Kieffer Moore | 83 | EFL Championship | 37k coins | -12.9% | -25.5% |
-| Haji Wright | 84 | EFL Championship | 50k coins | -6.1% | -0.5% |
+| Femi Seriki | 83 | EFL Championship | 50k coins | -25.9% | -6.5% |
+| Moussa Sissoko | 88 | EFL Championship | 280k coins | -5.4% | -14.8% |
 
 
 ### Análise das baixas
 
-- **Abdul Fatawu (88)** caiu **-37%** em 24h, a **22k coins** (faixa do dia: 22k–37k). Está -19% abaixo da média de 7 dias (descontada).
+- **Femi Seriki (83)** caiu **-25.9%** em 24h, a **50k coins** (faixa do dia: 50k–67k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Tom Ince (84)** caiu **-25.8%** em 24h, a **34k coins** (faixa do dia: 32k–46k). Está -24% abaixo da média de 7 dias (descontada).
-
-- **Femi Seriki (83)** caiu **-23.9%** em 24h, a **52k coins** (faixa do dia: 52k–68k). Está -24% abaixo da média de 7 dias (descontada).
+- **Moussa Sissoko (88)** caiu **-5.4%** em 24h, a **280k coins** (faixa do dia: 218k–325k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Terry Devlin já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Terry Devlin já avançou 56.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Abdul Fatawu recuou -37%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Femi Seriki recuou -25.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -98,13 +98,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Terry Devlin (86, EFL Championship), com +42.9% em 24h, a 50k coins no PC.
+Terry Devlin (86, EFL Championship), com +56.2% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Abdul Fatawu (88), -37% em 24h, a 22k coins.
+Femi Seriki (83), -25.9% em 24h, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 7 cartas em alta contra 7 em queda (média -0.62%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 10 cartas em alta contra 7 em queda (média -1.7%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

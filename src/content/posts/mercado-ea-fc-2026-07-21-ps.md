@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:47:07.000Z
+pubDatetime: 2026-07-21T19:47:07.000Z
 title: "Mercado EA FC em 21/07: Championship — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Femi Seriki (83, EFL Championship), com +44% em 24h, a 90k coins no Console (PS)."
+    a: "Femi Seriki (83, EFL Championship), com +45.2% em 24h, a 90k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "James McClean (87), -31.9% em 24h, a 24k coins."
+    a: "Kieffer Moore (88), -41.2% em 24h, a 35k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 9 cartas em alta contra 10 em queda (média 2.02%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 6 cartas em alta contra 11 em queda (média -1.92%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **9 subiram**, **10 caíram** (80+ e 5k+ coins), média de **2.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **6 subiram**, **11 caíram** (80+ e 5k+ coins), média de **-1.92%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Femi Seriki (83) **+44%** · 🔴 **Maior baixa:** James McClean (87) **-31.9%**
+> 🟢 **Maior alta:** Femi Seriki (83) **+45.2%** · 🔴 **Maior baixa:** Kieffer Moore (88) **-41.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Championship — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,19 +35,20 @@ Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 75.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 25 cartas.
-- **Concentração:** EFL Championship aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 86.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.3% entre as cartas que se moveram; o universo observado reúne 25 cartas.
+- **Concentração:** EFL Championship aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Femi Seriki | 83 | EFL Championship | 90k coins | +44% | +41.7% |
-| Leif Davis | 84 | EFL Championship | 49k coins | +23.1% | +40.7% |
-| Haji Wright | 84 | EFL Championship | 42k coins | +7.1% | +10.6% |
-| Jaden Philogene | 84 | EFL Championship | 54k coins | +4.7% | -23.5% |
-| Alan Browne | 84 | EFL Championship | 44k coins | +3.5% | +10% |
+| Femi Seriki | 83 | EFL Championship | 90k coins | +45.2% | +44% |
+| Jordan Ayew | 85 | EFL Championship | 42k coins | +28% | +15.8% |
+| Jaden Philogene | 84 | EFL Championship | 56k coins | +20.2% | -13.1% |
+| Tom Ince | 84 | EFL Championship | 50k coins | +16.2% | +14% |
+| Leif Davis | 84 | EFL Championship | 48k coins | +15% | +27.8% |
+| Abdul Fatawu | 88 | EFL Championship | 28k coins | +13.1% | +20.4% |
 
 
 ### Análise das altas
@@ -56,38 +57,41 @@ Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Femi Seriki (83)** subiu **+44%** em 24h, a **90k coins** (faixa do dia: 50k–97k). Está +25% acima da média de 7 dias (aquecida).
+- **Femi Seriki (83)** subiu **+45.2%** em 24h, a **90k coins** (faixa do dia: 60k–97k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Leif Davis (84)** subiu **+23.1%** em 24h, a **49k coins** (faixa do dia: 35k–50k). Está +21% acima da média de 7 dias (aquecida).
+- **Jordan Ayew (85)** subiu **+28%** em 24h, a **42k coins** (faixa do dia: 28k–42k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Haji Wright (84)** subiu **+7.1%** em 24h, a **42k coins** (faixa do dia: 33k–42k). Está +9% acima da média de 7 dias (aquecida).
+- **Jaden Philogene (84)** subiu **+20.2%** em 24h, a **56k coins** (faixa do dia: 46k–64k). Está em linha com a média de 7 dias (-1%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| James McClean | 87 | EFL Championship | 24k coins | -31.9% | -34.7% |
-| Nicolas Madsen | 84 | EFL Championship | 40k coins | -20% | -2.4% |
-| Finn Azaz | 88 | EFL Championship | 46k coins | -14% | +13.7% |
-| Tristan Crama | 86 | EFL Championship | 38k coins | -8.8% | -3.1% |
-| Emil Riis | 84 | EFL Championship | 36k coins | -7.7% | -8.3% |
+| Kieffer Moore | 88 | EFL Championship | 35k coins | -41.2% | -13.7% |
+| Finn Azaz | 88 | EFL Championship | 44k coins | -20.3% | +5.4% |
+| Nicolas Madsen | 84 | EFL Championship | 38k coins | -20% | -5.9% |
+| Tristan Crama | 86 | EFL Championship | 35k coins | -14.1% | -12.5% |
+| Emil Riis | 84 | EFL Championship | 34k coins | -9% | -17.1% |
+| Alan Browne | 84 | EFL Championship | 40k coins | -5.9% | +6.7% |
+| George Dobson | 84 | EFL Championship | 35k coins | -4.8% | -11.9% |
+| Caleb Taylor | 84 | EFL Championship | 62k coins | -3.8% | +64.7% |
 
 
 ### Análise das baixas
 
-- **James McClean (87)** caiu **-31.9%** em 24h, a **24k coins** (faixa do dia: 24k–70k). Está -34% abaixo da média de 7 dias (descontada).
+- **Kieffer Moore (88)** caiu **-41.2%** em 24h, a **35k coins** (faixa do dia: 29k–52k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Nicolas Madsen (84)** caiu **-20%** em 24h, a **40k coins** (faixa do dia: 33k–50k). Está -11% abaixo da média de 7 dias (descontada).
+- **Finn Azaz (88)** caiu **-20.3%** em 24h, a **44k coins** (faixa do dia: 30k–56k). Está em linha com a média de 7 dias (+3%).
 
-- **Finn Azaz (88)** caiu **-14%** em 24h, a **46k coins** (faixa do dia: 30k–56k). Está +9% acima da média de 7 dias (aquecida).
+- **Nicolas Madsen (84)** caiu **-20%** em 24h, a **38k coins** (faixa do dia: 33k–50k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Femi Seriki já avançou 44% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Femi Seriki já avançou 45.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** James McClean recuou -31.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kieffer Moore recuou -41.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,13 +103,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Femi Seriki (83, EFL Championship), com +44% em 24h, a 90k coins no Console (PS).
+Femi Seriki (83, EFL Championship), com +45.2% em 24h, a 90k coins no Console (PS).
 
 **E a maior queda do dia?**
-James McClean (87), -31.9% em 24h, a 24k coins.
+Kieffer Moore (88), -41.2% em 24h, a 35k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 9 cartas em alta contra 10 em queda (média 2.02%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 6 cartas em alta contra 11 em queda (média -1.92%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -120,5 +124,6 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Championship em 21/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-21-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
