@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:35:26.000Z
+pubDatetime: 2026-07-22T10:47:16.000Z
 title: "Mercado EA FC em 22/07: Championship — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Victor Torp (80), -36.8% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 8 em queda (média 4.39%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 9 em queda (média 3.3%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **8 caíram**, com variação média de **4.39%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **11 subiram** e **9 caíram**, com variação média de **3.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Kieffer Moore (88) **+60%** · 🔴 **Maior baixa:** Victor Torp (80) **-36.8%**
 
@@ -36,7 +36,7 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 96.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.0% entre as cartas que se moveram; o universo observado reúne 27 cartas.
+- **Participação das altas:** 55.0% entre as cartas que se moveram; o universo observado reúne 27 cartas.
 - **Concentração:** EFL Championship aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -51,7 +51,7 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 | Nicolas Madsen | 84 | EFL Championship | 45k coins | +20% | -5.3% |
 | Moussa Sissoko | 88 | EFL Championship | 270k coins | +11.1% | -18.4% |
 | Kieffer Moore | 83 | EFL Championship | 40k coins | +7.3% | -19% |
-| Haji Wright | 84 | EFL Championship | 50k coins | +3.1% | +1% |
+| Haji Wright | 84 | EFL Championship | 51k coins | +3.1% | +1% |
 
 
 ### Análise das altas
@@ -111,7 +111,7 @@ Kieffer Moore (88, EFL Championship), com +60% em 24h, a 70k coins no PC.
 Victor Torp (80), -36.8% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 8 em queda (média 4.39%).
+Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 9 em queda (média 3.3%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
