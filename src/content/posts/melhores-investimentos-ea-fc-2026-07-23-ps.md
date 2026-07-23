@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:31:52.000Z
+pubDatetime: 2026-07-23T10:47:08.000Z
 title: "Investimentos EA FC: Championship em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Leif Davis (84, EFL Championship) lidera, com +11.5% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Leif Davis (84, EFL Championship) lidera, com +11.5% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Leif Davis (84) acumula **+11.5% em 7 dias** a 44k coins; leitura atual: **entrada a observar**.
+> 🔝 **Destaque:** Leif Davis (84) acumula **+11.5% em 7 dias** a 42k coins; leitura atual: **entrada a observar**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Leif Davis | 84 | EFL Championship | 44k coins | +1.2% | +11.5% | Entrada a observar |
-| Alan Browne | 84 | EFL Championship | 50k coins | +18.8% | +10.4% | Momentum moderado |
-| George Dobson | 84 | EFL Championship | 42k coins | +18.3% | +7.7% | Momentum moderado |
-| James McClean | 87 | EFL Championship | 34k coins | +19.8% | +5.3% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 42k coins | +1.2% | +11.5% | Entrada a observar |
+| Alan Browne | 84 | EFL Championship | 49k coins | +18.8% | +10.4% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 45k coins | +18.3% | +7.7% | Momentum moderado |
+| James McClean | 87 | EFL Championship | 28k coins | +19.8% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Leif Davis (84)** — 44k coins, **+11.5% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 42k coins, **+11.5% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alan Browne (84)** — 50k coins, **+10.4% em 7 dias** (+18.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alan Browne (84)** — 49k coins, **+10.4% em 7 dias** (+18.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Dobson (84)** — 42k coins, **+7.7% em 7 dias** (+18.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Dobson (84)** — 45k coins, **+7.7% em 7 dias** (+18.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James McClean (87)** — 34k coins, **+5.3% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James McClean (87)** — 28k coins, **+5.3% em 7 dias** (+19.8% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Leif Davis (84, EFL Championship) lidera, com +11.5% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Leif Davis (84, EFL Championship) lidera, com +11.5% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
