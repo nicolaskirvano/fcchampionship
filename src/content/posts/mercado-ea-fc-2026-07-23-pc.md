@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:47:16.000Z
+pubDatetime: 2026-07-23T16:47:16.000Z
 title: "Mercado EA FC em 23/07: Championship — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
     a: "Moussa Sissoko (88, EFL Championship), com +37% em 24h, a 370k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "George Dobson (84), -28.6% em 24h, a 35k coins."
+    a: "Alan Browne (84), -23.7% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 6 cartas em alta contra 10 em queda (média -4.14%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 7 cartas em alta contra 10 em queda (média -0.69%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **23/07/2026** (PC): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **6 em alta** e **10 em queda**, média de **-4.14%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **23/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **7 em alta** e **10 em queda**, média de **-0.69%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Moussa Sissoko (88) **+37%** · 🔴 **Maior baixa:** George Dobson (84) **-28.6%**
+> 🟢 **Maior alta:** Moussa Sissoko (88) **+37%** · 🔴 **Maior baixa:** Alan Browne (84) **-23.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Championship — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,16 +35,18 @@ Panorama de **23/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 65.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.5% entre as cartas que se moveram; o universo observado reúne 26 cartas.
-- **Concentração:** EFL Championship aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 60.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.2% entre as cartas que se moveram; o universo observado reúne 27 cartas.
+- **Concentração:** EFL Championship aparece em 11 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 370k coins | +37% | +15.6% |
-| Abdul Fatawu | 88 | EFL Championship | 20k coins | +23.5% | -37.3% |
+| Moussa Sissoko | 88 | EFL Championship | 370k coins | +37% | +17.5% |
+| Kieffer Moore | 83 | EFL Championship | 50k coins | +28.2% | 0% |
+| Imrân Louza | 84 | EFL Championship | 48k coins | +18.8% | +0.5% |
+| Haji Wright | 84 | EFL Championship | 45k coins | +17.2% | -6.6% |
 
 
 ### Análise das altas
@@ -55,36 +57,38 @@ Panorama de **23/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 
 - **Moussa Sissoko (88)** subiu **+37%** em 24h, a **370k coins** (faixa do dia: 270k–370k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Abdul Fatawu (88)** subiu **+23.5%** em 24h, a **20k coins** (faixa do dia: 12.000–44k). Está -21% abaixo da média de 7 dias (descontada).
+- **Kieffer Moore (83)** subiu **+28.2%** em 24h, a **50k coins** (faixa do dia: 39k–50k). Está +11% acima da média de 7 dias (aquecida).
+
+- **Imrân Louza (84)** subiu **+18.8%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| George Dobson | 84 | EFL Championship | 35k coins | -28.6% | -24.5% |
-| Alan Browne | 84 | EFL Championship | 37k coins | -24.2% | -23.8% |
-| Emil Riis | 84 | EFL Championship | 32k coins | -24.1% | -25.9% |
-| Tristan Crama | 86 | EFL Championship | 33k coins | -16% | -13.2% |
-| Kieffer Moore | 88 | EFL Championship | 58k coins | -11.9% | +7.2% |
-| Finn Azaz | 88 | EFL Championship | 36k coins | -11.8% | -30.4% |
-| Joe Gelhardt | 86 | EFL Championship | 24k coins | -6.5% | -43.2% |
+| Alan Browne | 84 | EFL Championship | 36k coins | -23.7% | -23.3% |
+| Joe Gelhardt | 86 | EFL Championship | 22k coins | -17.8% | -50% |
+| Kieffer Moore | 88 | EFL Championship | 58k coins | -16% | -13.8% |
+| Emil Riis | 84 | EFL Championship | 35k coins | -15.7% | -17.6% |
+| George Dobson | 84 | EFL Championship | 35k coins | -15.2% | -11.9% |
+| Tom Ince | 84 | EFL Championship | 49k coins | -11.4% | +8.9% |
+| Terry Devlin | 86 | EFL Championship | 48k coins | -3% | +4.3% |
 
 
 ### Análise das baixas
 
-- **George Dobson (84)** caiu **-28.6%** em 24h, a **35k coins** (faixa do dia: 30k–42k). Está -16% abaixo da média de 7 dias (descontada).
+- **Alan Browne (84)** caiu **-23.7%** em 24h, a **36k coins** (faixa do dia: 36k–48k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Alan Browne (84)** caiu **-24.2%** em 24h, a **37k coins** (faixa do dia: 36k–48k). Está -18% abaixo da média de 7 dias (descontada).
+- **Joe Gelhardt (86)** caiu **-17.8%** em 24h, a **22k coins** (faixa do dia: 15.500–27k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Emil Riis (84)** caiu **-24.1%** em 24h, a **32k coins** (faixa do dia: 32k–42k). Está -19% abaixo da média de 7 dias (descontada).
+- **Kieffer Moore (88)** caiu **-16%** em 24h, a **58k coins** (faixa do dia: 48k–60k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Moussa Sissoko já avançou 37% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** George Dobson recuou -28.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alan Browne recuou -23.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,10 +103,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Moussa Sissoko (88, EFL Championship), com +37% em 24h, a 370k coins no PC.
 
 **E a maior queda do dia?**
-George Dobson (84), -28.6% em 24h, a 35k coins.
+Alan Browne (84), -23.7% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 6 cartas em alta contra 10 em queda (média -4.14%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 7 cartas em alta contra 10 em queda (média -0.69%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
