@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:47:16.000Z
+pubDatetime: 2026-07-23T01:47:16.000Z
 title: "Mercado EA FC em 22/07: Championship — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Cameron Burgess (80), -36.8% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 7 cartas em alta contra 13 em queda (média -0.84%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 6 cartas em alta contra 13 em queda (média -4.66%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **7 subiram** e **13 caíram**, com variação média de **-0.84%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **6 subiram** e **13 caíram**, com variação média de **-4.66%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Moussa Sissoko (88) **+34.1%** · 🔴 **Maior baixa:** Cameron Burgess (80) **-36.8%**
 
@@ -36,16 +36,15 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 70.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.0% entre as cartas que se moveram; o universo observado reúne 26 cartas.
-- **Concentração:** EFL Championship aparece em 13 dos 20 maiores movimentos listados.
+- **Participação das altas:** 31.6% entre as cartas que se moveram; o universo observado reúne 27 cartas.
+- **Concentração:** EFL Championship aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Moussa Sissoko | 88 | EFL Championship | 362k coins | +34.1% | +9.4% |
-| Alan Browne | 84 | EFL Championship | 48k coins | +25% | +4.4% |
-| Kieffer Moore | 83 | EFL Championship | 50k coins | +22.7% | 0% |
+| Leif Davis | 84 | EFL Championship | 51k coins | +15.3% | +22.2% |
 | Finn Azaz | 88 | EFL Championship | 38k coins | +15.2% | -30.3% |
 | Nicolas Madsen | 84 | EFL Championship | 47k coins | +3.9% | -1.6% |
 
@@ -58,9 +57,9 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 
 - **Moussa Sissoko (88)** subiu **+34.1%** em 24h, a **362k coins** (faixa do dia: 209k–366k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Alan Browne (84)** subiu **+25%** em 24h, a **48k coins** (faixa do dia: 38k–48k). Está em linha com a média de 7 dias (+5%).
+- **Leif Davis (84)** subiu **+15.3%** em 24h, a **51k coins** (faixa do dia: 44k–53k). Está em linha com a média de 7 dias (+5%).
 
-- **Kieffer Moore (83)** subiu **+22.7%** em 24h, a **50k coins** (faixa do dia: 39k–50k). Está +9% acima da média de 7 dias (aquecida).
+- **Finn Azaz (88)** subiu **+15.2%** em 24h, a **38k coins** (faixa do dia: 32k–40k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -69,11 +68,13 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 | --- | --- | --- | --- | --- | --- |
 | Cameron Burgess | 80 | EFL Championship | 30k coins | -36.8% | -36.8% |
 | Victor Torp | 80 | EFL Championship | 30k coins | -36.8% | -6.2% |
-| James McClean | 87 | EFL Championship | 33k coins | -19.2% | +8.9% |
-| George Dobson | 84 | EFL Championship | 40k coins | -16.3% | 0% |
-| Terry Devlin | 86 | EFL Championship | 42k coins | -13.1% | -1.1% |
+| Emil Riis | 84 | EFL Championship | 33k coins | -20.5% | -12.6% |
+| George Dobson | 84 | EFL Championship | 36k coins | -17.9% | -1.9% |
+| Haji Wright | 84 | EFL Championship | 38k coins | -12.6% | -24% |
+| Terry Devlin | 86 | EFL Championship | 38k coins | -8.6% | -10% |
 | Jordan Storey | 83 | EFL Championship | 28k coins | -8.3% | +1.9% |
-| Jordan Ayew | 85 | EFL Championship | 42k coins | -6.7% | +18.3% |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | -8% | +22.7% |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | -7% | -3.6% |
 | Tristan Crama | 86 | EFL Championship | 44k coins | -4.9% | +15.9% |
 
 
@@ -83,7 +84,7 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 
 - **Victor Torp (80)** caiu **-36.8%** em 24h, a **30k coins** (faixa do dia: 30k–48k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **James McClean (87)** caiu **-19.2%** em 24h, a **33k coins** (faixa do dia: 33k–42k). Está em linha com a média de 7 dias (+3%).
+- **Emil Riis (84)** caiu **-20.5%** em 24h, a **33k coins** (faixa do dia: 33k–42k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -108,7 +109,7 @@ Moussa Sissoko (88, EFL Championship), com +34.1% em 24h, a 362k coins no PC.
 Cameron Burgess (80), -36.8% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 7 cartas em alta contra 13 em queda (média -0.84%).
+Hoje o mercado está em baixa — predominam as quedas, com 6 cartas em alta contra 13 em queda (média -4.66%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
