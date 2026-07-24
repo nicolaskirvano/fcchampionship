@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alan Browne</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">George Dobson</text>
-<rect x="285" y="153" width="443" height="28" rx="7" fill="#22c55e"/>
-<text x="738" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tristan Crama</text>
-<rect x="285" y="211" width="379" height="28" rx="7" fill="#22c55e"/>
-<text x="674" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kieffer Moore</text>
-<rect x="285" y="269" width="283" height="28" rx="7" fill="#22c55e"/>
-<text x="578" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emil Riis</text>
-<rect x="285" y="327" width="211" height="28" rx="7" fill="#22c55e"/>
-<text x="506" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
-<rect x="285" y="385" width="172" height="28" rx="7" fill="#22c55e"/>
-<text x="467" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tristan Crama</text>
+<rect x="285" y="153" width="252" height="28" rx="7" fill="#22c55e"/>
+<text x="547" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emil Riis</text>
+<rect x="285" y="211" width="209" height="28" rx="7" fill="#22c55e"/>
+<text x="504" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Madsen</text>
+<rect x="285" y="269" width="126" height="28" rx="7" fill="#22c55e"/>
+<text x="421" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leif Davis</text>
+<rect x="285" y="327" width="106" height="28" rx="7" fill="#22c55e"/>
+<text x="401" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caleb Taylor</text>
+<rect x="285" y="385" width="72" height="28" rx="7" fill="#22c55e"/>
+<text x="367" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.7%</text>
 </svg>
