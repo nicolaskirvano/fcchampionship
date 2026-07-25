@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:47:08.000Z
+pubDatetime: 2026-07-25T13:47:09.000Z
 title: "Investimentos EA FC: Championship em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Tristan Crama (86, EFL Championship) lidera, com +28.2% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tristan Crama (86, EFL Championship) lidera, com +27.4% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tristan Crama (86) acumula **+28.2% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Tristan Crama (86) acumula **+27.4% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.3% em 24h** e **+11.3% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+24.9% em 24h** e **+17.0% em 7 dias**.
+- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tristan Crama | 86 | EFL Championship | 48k coins | +19.7% | +28.2% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 40k coins | +13.6% | +13.6% | Momentum moderado |
-| Imrân Louza | 84 | EFL Championship | 54k coins | +36.2% | +9% | Esticada |
-| Haji Wright | 84 | EFL Championship | 42k coins | +18.9% | +6.2% | Momentum moderado |
+| Tristan Crama | 86 | EFL Championship | 48k coins | +20% | +27.4% | Esticada |
+| Leif Davis | 84 | EFL Championship | 47k coins | +29.9% | +23% | Esticada |
+| Emil Riis | 84 | EFL Championship | 43k coins | +11% | +19.4% | Momentum moderado |
+| Imrân Louza | 84 | EFL Championship | 50k coins | +36.2% | +14.7% | Esticada |
+| Haji Wright | 84 | EFL Championship | 38k coins | +11.8% | +6.2% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 47k coins | +34.3% | +5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Tristan Crama (86)** — 48k coins, **+28.2% em 7 dias** (+19.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 48k coins, **+27.4% em 7 dias** (+20% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 40k coins, **+13.6% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 47k coins, **+23% em 7 dias** (+29.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Imrân Louza (84)** — 54k coins, **+9% em 7 dias** (+36.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emil Riis (84)** — 43k coins, **+19.4% em 7 dias** (+11% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 42k coins, **+6.2% em 7 dias** (+18.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Imrân Louza (84)** — 50k coins, **+14.7% em 7 dias** (+36.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Haji Wright (84)** — 38k coins, **+6.2% em 7 dias** (+11.8% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Tristan Crama (86, EFL Championship) lidera, com +28.2% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tristan Crama (86, EFL Championship) lidera, com +27.4% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

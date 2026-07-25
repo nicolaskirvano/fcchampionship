@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:47:16.000Z
+pubDatetime: 2026-07-25T13:47:17.000Z
 title: "Mercado EA FC em 25/07: Championship — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
     a: "Leif Davis (84, EFL Championship), com +52.9% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Abdul Fatawu (88), -27.9% em 24h, a 28k coins."
+    a: "Abdul Fatawu (88), -30.5% em 24h, a 27k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 8 cartas em alta contra 12 em queda (média 3.2%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 8 cartas em alta contra 11 em queda (média 5.71%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no PC: mercado **em alta** — predominam as valorizações. **8 valorizações** contra **12 quedas** entre as cartas relevantes, com média de **3.2%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **25/07/2026** no PC: mercado **em alta** — predominam as valorizações. **8 valorizações** contra **11 quedas** entre as cartas relevantes, com média de **5.71%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Leif Davis (84) **+52.9%** · 🔴 **Maior baixa:** Abdul Fatawu (88) **-27.9%**
+> 🟢 **Maior alta:** Leif Davis (84) **+52.9%** · 🔴 **Maior baixa:** Abdul Fatawu (88) **-30.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Championship — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,20 +35,20 @@ Resumo de **25/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 80.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 27 cartas.
-- **Concentração:** EFL Championship aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 83.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.1% entre as cartas que se moveram; o universo observado reúne 27 cartas.
+- **Concentração:** EFL Championship aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leif Davis | 84 | EFL Championship | 58k coins | +52.9% | +18.8% |
-| Haji Wright | 84 | EFL Championship | 52k coins | +50% | +35.5% |
-| Finn Azaz | 88 | EFL Championship | 54k coins | +20.2% | +49.7% |
-| Tristan Crama | 86 | EFL Championship | 49k coins | +8.2% | +17.3% |
-| Caleb Taylor | 84 | EFL Championship | 50k coins | +3.7% | +3.7% |
-| Alan Browne | 84 | EFL Championship | 48k coins | +3.3% | 0% |
+| Leif Davis | 84 | EFL Championship | 58k coins | +52.9% | +20.6% |
+| Jaden Philogene | 84 | EFL Championship | 64k coins | +29% | +4.9% |
+| Finn Azaz | 88 | EFL Championship | 54k coins | +20.2% | +50.7% |
+| Tristan Crama | 86 | EFL Championship | 43k coins | +13.2% | +17.3% |
+| Moussa Sissoko | 88 | EFL Championship | 309k coins | +13% | +29.2% |
+| George Dobson | 84 | EFL Championship | 47k coins | +3.9% | -0.5% |
 
 
 ### Análise das altas
@@ -59,40 +59,41 @@ Resumo de **25/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 - **Leif Davis (84)** subiu **+52.9%** em 24h, a **58k coins** (faixa do dia: 36k–58k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Haji Wright (84)** subiu **+50%** em 24h, a **52k coins** (faixa do dia: 40k–55k). Está +14% acima da média de 7 dias (aquecida).
+- **Jaden Philogene (84)** subiu **+29%** em 24h, a **64k coins** (faixa do dia: 48k–64k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Finn Azaz (88)** subiu **+20.2%** em 24h, a **54k coins** (faixa do dia: 36k–54k). Está +45% acima da média de 7 dias (aquecida).
+- **Finn Azaz (88)** subiu **+20.2%** em 24h, a **54k coins** (faixa do dia: 36k–54k). Está +44% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | EFL Championship | 28k coins | -27.9% | +23.3% |
-| Tom Ince | 84 | EFL Championship | 37k coins | -26% | -6.3% |
+| Abdul Fatawu | 88 | EFL Championship | 27k coins | -30.5% | +33.8% |
 | Gustavo Hamer | 83 | EFL Championship | 30k coins | -25.8% | -25.8% |
-| Jaden Philogene | 87 | EFL Championship | 45k coins | -23% | +13.2% |
-| Jordan Ayew | 85 | EFL Championship | 39k coins | -7.7% | -13.9% |
-| Terry Devlin | 86 | EFL Championship | 46k coins | -6.5% | -1.1% |
+| Tom Ince | 84 | EFL Championship | 37k coins | -17.8% | -6.9% |
+| Joe Gelhardt | 86 | EFL Championship | 21k coins | -10.2% | -12.9% |
+| Jordan Ayew | 85 | EFL Championship | 38k coins | -8.9% | -15% |
+| Imrân Louza | 84 | EFL Championship | 48k coins | -5.8% | +5.3% |
 | Brandon Thomas-Asante | 80 | EFL Championship | 36k coins | -5.3% | -24.2% |
 | Cameron Burgess | 80 | EFL Championship | 45k coins | -4.7% | +32.1% |
-| Nicolas Madsen | 84 | EFL Championship | 48k coins | -3.5% | +1.1% |
+| Nicolas Madsen | 84 | EFL Championship | 47k coins | -4.5% | 0% |
+| Femi Seriki | 83 | EFL Championship | 72k coins | -3.3% | -3.3% |
 
 
 ### Análise das baixas
 
-- **Abdul Fatawu (88)** caiu **-27.9%** em 24h, a **28k coins** (faixa do dia: 17.000–38k). Está +20% acima da média de 7 dias (aquecida).
+- **Abdul Fatawu (88)** caiu **-30.5%** em 24h, a **27k coins** (faixa do dia: 17.000–34k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Tom Ince (84)** caiu **-26%** em 24h, a **37k coins** (faixa do dia: 37k–50k). Está -20% abaixo da média de 7 dias (descontada).
+- **Gustavo Hamer (83)** caiu **-25.8%** em 24h, a **30k coins** (faixa do dia: 30k–40k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Gustavo Hamer (83)** caiu **-25.8%** em 24h, a **30k coins** (faixa do dia: 30k–40k). Está -24% abaixo da média de 7 dias (descontada).
+- **Tom Ince (84)** caiu **-17.8%** em 24h, a **37k coins** (faixa do dia: 37k–45k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Leif Davis já avançou 52.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Abdul Fatawu recuou -27.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Abdul Fatawu recuou -30.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,10 +108,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Leif Davis (84, EFL Championship), com +52.9% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**
-Abdul Fatawu (88), -27.9% em 24h, a 28k coins.
+Abdul Fatawu (88), -30.5% em 24h, a 27k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 8 cartas em alta contra 12 em queda (média 3.2%).
+Hoje o mercado está em alta — predominam as valorizações, com 8 cartas em alta contra 11 em queda (média 5.71%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
