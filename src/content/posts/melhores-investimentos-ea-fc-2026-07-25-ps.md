@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:47:08.000Z
+pubDatetime: 2026-07-25T19:47:09.000Z
 title: "Investimentos EA FC: Championship em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Jaden Philogene (87, EFL Championship) lidera, com +44.3% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Leif Davis (84, EFL Championship) lidera, com +26.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jaden Philogene (87) acumula **+44.3% em 7 dias** a 40k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Leif Davis (84) acumula **+26.3% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+20.8% em 7 dias**.
-- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.6% em 24h** e **+17.5% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 40k coins | +2% | +44.3% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 45k coins | +23.1% | +26.3% | Esticada |
-| Terry Devlin | 86 | EFL Championship | 38k coins | +10.2% | +25.2% | Momentum moderado |
-| Jordan Ayew | 85 | EFL Championship | 36k coins | +15.5% | +23.3% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 42k coins | +25.9% | +23.3% | Esticada |
-| Nicolas Madsen | 84 | EFL Championship | 42k coins | +9.3% | +18.3% | Momentum moderado |
-| Finn Azaz | 88 | EFL Championship | 45k coins | +36% | +16.7% | Esticada |
-| Emil Riis | 84 | EFL Championship | 39k coins | +5.2% | +13.2% | Momentum moderado |
-| Alan Browne | 84 | EFL Championship | 45k coins | +5.9% | +12.5% | Momentum moderado |
-| Joe Gelhardt | 86 | EFL Championship | 16.750 coins | +27.3% | +7.7% | Esticada |
+| Leif Davis | 84 | EFL Championship | 48k coins | +15% | +26.3% | Momentum moderado |
+| Terry Devlin | 86 | EFL Championship | 45k coins | +11.9% | +21.8% | Momentum moderado |
+| Emil Riis | 84 | EFL Championship | 45k coins | +1.2% | +18.2% | Entrada a observar |
+| Jaden Philogene | 84 | EFL Championship | 56k coins | +4.7% | +16.8% | Entrada a observar |
+| Tom Ince | 84 | EFL Championship | 58k coins | +23.6% | +10.3% | Esticada |
+| Jordan Ayew | 85 | EFL Championship | 36k coins | +5.2% | +6.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jaden Philogene (87)** — 40k coins, **+44.3% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 48k coins, **+26.3% em 7 dias** (+15% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 45k coins, **+26.3% em 7 dias** (+23.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Terry Devlin (86)** — 45k coins, **+21.8% em 7 dias** (+11.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Terry Devlin (86)** — 38k coins, **+25.2% em 7 dias** (+10.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emil Riis (84)** — 45k coins, **+18.2% em 7 dias** (+1.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Ayew (85)** — 36k coins, **+23.3% em 7 dias** (+15.5% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (84)** — 56k coins, **+16.8% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 42k coins, **+23.3% em 7 dias** (+25.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tom Ince (84)** — 58k coins, **+10.3% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Jaden Philogene (87, EFL Championship) lidera, com +44.3% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Leif Davis (84, EFL Championship) lidera, com +26.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

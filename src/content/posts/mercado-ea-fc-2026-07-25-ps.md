@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:47:07.000Z
+pubDatetime: 2026-07-25T19:47:07.000Z
 title: "Mercado EA FC em 25/07: Championship — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "George Dobson (84, EFL Championship), com +38.9% em 24h, a 40k coins no Console (PS)."
+    a: "Caleb Taylor (84, EFL Championship), com +43% em 24h, a 64k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kieffer Moore (88), -21.2% em 24h, a 30k coins."
+    a: "James McClean (87), -15.7% em 24h, a 34k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 5 em queda (média 6.94%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 7 em queda (média 2.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **13 valorizações** contra **5 quedas** entre as cartas relevantes, com média de **6.94%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **25/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **9 valorizações** contra **7 quedas** entre as cartas relevantes, com média de **2.49%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** George Dobson (84) **+38.9%** · 🔴 **Maior baixa:** Kieffer Moore (88) **-21.2%**
+> 🟢 **Maior alta:** Caleb Taylor (84) **+43%** · 🔴 **Maior baixa:** James McClean (87) **-15.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Championship — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,21 @@ Resumo de **25/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 60.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 72.2% entre as cartas que se moveram; o universo observado reúne 25 cartas.
-- **Concentração:** EFL Championship aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 58.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.2% entre as cartas que se moveram; o universo observado reúne 25 cartas.
+- **Concentração:** EFL Championship aparece em 11 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| George Dobson | 84 | EFL Championship | 40k coins | +38.9% | +1.7% |
-| Finn Azaz | 88 | EFL Championship | 45k coins | +36% | +16.7% |
-| Tristan Crama | 86 | EFL Championship | 42k coins | +25.9% | +23.3% |
+| Caleb Taylor | 84 | EFL Championship | 64k coins | +43% | -8.6% |
 | Cameron Burgess | 80 | EFL Championship | 48k coins | +25.8% | +2.2% |
-| Leif Davis | 84 | EFL Championship | 45k coins | +23.1% | +26.3% |
-| Jordan Ayew | 85 | EFL Championship | 36k coins | +15.5% | +23.3% |
-| Terry Devlin | 86 | EFL Championship | 38k coins | +10.2% | +25.2% |
-| Nicolas Madsen | 84 | EFL Championship | 42k coins | +9.3% | +18.3% |
-| Alan Browne | 84 | EFL Championship | 45k coins | +5.9% | +12.5% |
-| Emil Riis | 84 | EFL Championship | 39k coins | +5.2% | +13.2% |
+| Tom Ince | 84 | EFL Championship | 58k coins | +23.6% | +10.3% |
+| Leif Davis | 84 | EFL Championship | 48k coins | +15% | +26.3% |
+| Terry Devlin | 86 | EFL Championship | 45k coins | +11.9% | +21.8% |
+| Jordan Ayew | 85 | EFL Championship | 36k coins | +5.2% | +6.8% |
+| Jaden Philogene | 84 | EFL Championship | 56k coins | +4.7% | +16.8% |
 
 
 ### Análise das altas
@@ -61,38 +58,37 @@ Resumo de **25/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **George Dobson (84)** subiu **+38.9%** em 24h, a **40k coins** (faixa do dia: 38k–50k). Está em linha com a média de 7 dias (-1%).
+- **Caleb Taylor (84)** subiu **+43%** em 24h, a **64k coins** (faixa do dia: 38k–80k). Está em linha com a média de 7 dias (+3%).
 
-- **Finn Azaz (88)** subiu **+36%** em 24h, a **45k coins** (faixa do dia: 24k–50k). Está em linha com a média de 7 dias (+6%).
+- **Cameron Burgess (80)** subiu **+25.8%** em 24h, a **48k coins** (faixa do dia: 41k–48k). Está em linha com a média de 7 dias (+6%).
 
-- **Tristan Crama (86)** subiu **+25.9%** em 24h, a **42k coins** (faixa do dia: 33k–48k). Está em linha com a média de 7 dias (+6%).
+- **Tom Ince (84)** subiu **+23.6%** em 24h, a **58k coins** (faixa do dia: 38k–59k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kieffer Moore | 88 | EFL Championship | 30k coins | -21.2% | -16.2% |
-| James McClean | 87 | EFL Championship | 38k coins | -14.4% | +20.3% |
-| Haji Wright | 84 | EFL Championship | 42k coins | -8.9% | -3.8% |
-| Jaden Philogene | 84 | EFL Championship | 50k coins | -6.6% | +4.2% |
-| Brandon Thomas-Asante | 80 | EFL Championship | 46k coins | -3.2% | -3.2% |
+| James McClean | 87 | EFL Championship | 34k coins | -15.7% | +5.3% |
+| Alan Browne | 84 | EFL Championship | 45k coins | -11.1% | -5.9% |
+| Tristan Crama | 86 | EFL Championship | 48k coins | -4.9% | +8.3% |
+| Divin Mubama | 83 | EFL Championship | 35k coins | -4.1% | -6.7% |
 
 
 ### Análise das baixas
 
-- **Kieffer Moore (88)** caiu **-21.2%** em 24h, a **30k coins** (faixa do dia: 25k–43k). Está -25% abaixo da média de 7 dias (descontada).
+- **James McClean (87)** caiu **-15.7%** em 24h, a **34k coins** (faixa do dia: 22k–42k). Está em linha com a média de 7 dias (-6%).
 
-- **James McClean (87)** caiu **-14.4%** em 24h, a **38k coins** (faixa do dia: 22k–45k). Está em linha com a média de 7 dias (+6%).
+- **Alan Browne (84)** caiu **-11.1%** em 24h, a **45k coins** (faixa do dia: 36k–50k). Está em linha com a média de 7 dias (+3%).
 
-- **Haji Wright (84)** caiu **-8.9%** em 24h, a **42k coins** (faixa do dia: 38k–45k). Está +10% acima da média de 7 dias (aquecida).
+- **Tristan Crama (86)** caiu **-4.9%** em 24h, a **48k coins** (faixa do dia: 38k–48k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** George Dobson já avançou 38.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Caleb Taylor já avançou 43% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kieffer Moore recuou -21.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** James McClean recuou -15.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +100,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-George Dobson (84, EFL Championship), com +38.9% em 24h, a 40k coins no Console (PS).
+Caleb Taylor (84, EFL Championship), com +43% em 24h, a 64k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kieffer Moore (88), -21.2% em 24h, a 30k coins.
+James McClean (87), -15.7% em 24h, a 34k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 5 em queda (média 6.94%).
+Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 7 em queda (média 2.49%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
