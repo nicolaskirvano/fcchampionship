@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:47:09.000Z
+pubDatetime: 2026-07-25T01:47:08.000Z
 title: "Investimentos EA FC: Championship em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "George Dobson (84, EFL Championship) lidera, com +24.5% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolas Madsen (84, EFL Championship) lidera, com +23.8% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** George Dobson (84) acumula **+24.5% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nicolas Madsen (84) acumula **+23.8% em 7 dias** a 52k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.9% em 24h** e **+17.8% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.8% em 24h** e **+18.4% em 7 dias**.
+- **4 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| George Dobson | 84 | EFL Championship | 48k coins | +14.9% | +24.5% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 41k coins | +26.5% | +22.9% | Esticada |
-| Emil Riis | 84 | EFL Championship | 45k coins | +14.7% | +17.8% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 41k coins | +21.4% | +10.4% | Esticada |
-| Jaden Philogene | 84 | EFL Championship | 51k coins | +2.9% | +9.8% | Entrada a observar |
+| Nicolas Madsen | 84 | EFL Championship | 52k coins | +24.5% | +23.8% | Esticada |
+| Tristan Crama | 86 | EFL Championship | 48k coins | +21.8% | +23.6% | Esticada |
+| Emil Riis | 84 | EFL Championship | 45k coins | +25% | +18.4% | Esticada |
+| Haji Wright | 84 | EFL Championship | 42k coins | +21.4% | +6.2% | Esticada |
+| Terry Devlin | 86 | EFL Championship | 42k coins | +5.7% | +5.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **George Dobson (84)** — 48k coins, **+24.5% em 7 dias** (+14.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Madsen (84)** — 52k coins, **+23.8% em 7 dias** (+24.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 41k coins, **+22.9% em 7 dias** (+26.5% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 48k coins, **+23.6% em 7 dias** (+21.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emil Riis (84)** — 45k coins, **+17.8% em 7 dias** (+14.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emil Riis (84)** — 45k coins, **+18.4% em 7 dias** (+25% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 41k coins, **+10.4% em 7 dias** (+21.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haji Wright (84)** — 42k coins, **+6.2% em 7 dias** (+21.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (84)** — 51k coins, **+9.8% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Terry Devlin (86)** — 42k coins, **+5.7% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +87,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-George Dobson (84, EFL Championship) lidera, com +24.5% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolas Madsen (84, EFL Championship) lidera, com +23.8% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
