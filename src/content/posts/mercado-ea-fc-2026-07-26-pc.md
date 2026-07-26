@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:47:16.000Z
+pubDatetime: 2026-07-26T19:47:16.000Z
 title: "Mercado EA FC em 26/07: Championship — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Abdul Fatawu (88, EFL Championship), com +42.9% em 24h, a 34k coins no PC."
+    a: "Leif Davis (84, EFL Championship), com +52.9% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Haji Wright (84), -16.2% em 24h, a 53k coins."
+    a: "Cameron Burgess (80), -24.9% em 24h, a 34k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 5 cartas em alta contra 12 em queda (média 2.7%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 4 cartas em alta contra 10 em queda (média -0.22%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **5 subiram**, **12 caíram** (80+ e 5k+ coins), média de **2.7%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **4 subiram**, **10 caíram** (80+ e 5k+ coins), média de **-0.22%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Abdul Fatawu (88) **+42.9%** · 🔴 **Maior baixa:** Haji Wright (84) **-16.2%**
+> 🟢 **Maior alta:** Leif Davis (84) **+52.9%** · 🔴 **Maior baixa:** Cameron Burgess (80) **-24.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Championship — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,18 +35,18 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 59.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 29.4% entre as cartas que se moveram; o universo observado reúne 25 cartas.
+- **Amplitude do dia:** 77.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 28.6% entre as cartas que se moveram; o universo observado reúne 24 cartas.
 - **Concentração:** EFL Championship aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | EFL Championship | 34k coins | +42.9% | +84.2% |
+| Leif Davis | 84 | EFL Championship | 58k coins | +52.9% | +43.6% |
 | Gustavo Hamer | 83 | EFL Championship | 40k coins | +35.6% | +0.6% |
-| Brandon Thomas-Asante | 80 | EFL Championship | 48k coins | +31.9% | +26.7% |
-| Tom Ince | 84 | EFL Championship | 54k coins | +9% | +37.1% |
+| Tom Ince | 84 | EFL Championship | 54k coins | +9% | +10.7% |
+| Nicolas Madsen | 84 | EFL Championship | 49k coins | +5.9% | +37.1% |
 
 
 ### Análise das altas
@@ -55,42 +55,42 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Abdul Fatawu (88)** subiu **+42.9%** em 24h, a **34k coins** (faixa do dia: 11.000–39k). Está +51% acima da média de 7 dias (aquecida).
+- **Leif Davis (84)** subiu **+52.9%** em 24h, a **58k coins** (faixa do dia: 36k–58k). Está +28% acima da média de 7 dias (aquecida).
 
 - **Gustavo Hamer (83)** subiu **+35.6%** em 24h, a **40k coins** (faixa do dia: 30k–40k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Brandon Thomas-Asante (80)** subiu **+31.9%** em 24h, a **48k coins** (faixa do dia: 36k–48k). Está +22% acima da média de 7 dias (aquecida).
+- **Tom Ince (84)** subiu **+9%** em 24h, a **54k coins** (faixa do dia: 50k–54k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Haji Wright | 84 | EFL Championship | 53k coins | -16.2% | -12% |
-| Nicolas Madsen | 84 | EFL Championship | 40k coins | -14.5% | +10.4% |
-| Tristan Crama | 86 | EFL Championship | 41k coins | -10.9% | -2.5% |
-| Moussa Sissoko | 88 | EFL Championship | 275k coins | -10.7% | -21.1% |
-| Imrân Louza | 84 | EFL Championship | 40k coins | -10.6% | +6.7% |
-| Alan Browne | 84 | EFL Championship | 41k coins | -7.9% | -7.9% |
-| Jordan Ayew | 85 | EFL Championship | 35k coins | -7.3% | -22.2% |
-| Finn Azaz | 88 | EFL Championship | 50k coins | -5.7% | +51.5% |
-| Femi Seriki | 83 | EFL Championship | 68k coins | -4.9% | -8.7% |
+| Cameron Burgess | 80 | EFL Championship | 34k coins | -24.9% | -0.7% |
+| Kieffer Moore | 83 | EFL Championship | 40k coins | -20% | -9.6% |
+| Alan Browne | 84 | EFL Championship | 38k coins | -14.8% | -13.9% |
+| Moussa Sissoko | 88 | EFL Championship | 273k coins | -11.1% | -22% |
+| Imrân Louza | 84 | EFL Championship | 40k coins | -10.6% | +14.3% |
+| Terry Devlin | 86 | EFL Championship | 42k coins | -9.6% | -9.6% |
+| Femi Seriki | 83 | EFL Championship | 67k coins | -6.9% | -10.7% |
+| Jordan Ayew | 85 | EFL Championship | 34k coins | -6.1% | -23.3% |
+| Emil Riis | 84 | EFL Championship | 40k coins | -3.6% | -3.6% |
 
 
 ### Análise das baixas
 
-- **Haji Wright (84)** caiu **-16.2%** em 24h, a **53k coins** (faixa do dia: 44k–53k). Está +10% acima da média de 7 dias (aquecida).
+- **Cameron Burgess (80)** caiu **-24.9%** em 24h, a **34k coins** (faixa do dia: 34k–48k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Nicolas Madsen (84)** caiu **-14.5%** em 24h, a **40k coins** (faixa do dia: 40k–49k). Está -10% abaixo da média de 7 dias (descontada).
+- **Kieffer Moore (83)** caiu **-20%** em 24h, a **40k coins** (faixa do dia: 40k–50k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Tristan Crama (86)** caiu **-10.9%** em 24h, a **41k coins** (faixa do dia: 38k–49k). Está em linha com a média de 7 dias (-1%).
+- **Alan Browne (84)** caiu **-14.8%** em 24h, a **38k coins** (faixa do dia: 38k–47k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Abdul Fatawu já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Leif Davis já avançou 52.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Haji Wright recuou -16.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Cameron Burgess recuou -24.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -102,13 +102,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Abdul Fatawu (88, EFL Championship), com +42.9% em 24h, a 34k coins no PC.
+Leif Davis (84, EFL Championship), com +52.9% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**
-Haji Wright (84), -16.2% em 24h, a 53k coins.
+Cameron Burgess (80), -24.9% em 24h, a 34k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 5 cartas em alta contra 12 em queda (média 2.7%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 4 cartas em alta contra 10 em queda (média -0.22%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

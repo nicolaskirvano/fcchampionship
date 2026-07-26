@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moussa Sissoko</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
-<rect x="285" y="153" width="254" height="28" rx="7" fill="#22c55e"/>
-<text x="549" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kieffer Moore</text>
-<rect x="285" y="211" width="233" height="28" rx="7" fill="#22c55e"/>
-<text x="528" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alan Browne</text>
-<rect x="285" y="269" width="220" height="28" rx="7" fill="#22c55e"/>
-<text x="515" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Divin Mubama</text>
-<rect x="285" y="327" width="128" height="28" rx="7" fill="#22c55e"/>
-<text x="423" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaden Philogene</text>
+<rect x="285" y="153" width="353" height="28" rx="7" fill="#22c55e"/>
+<text x="648" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Madsen</text>
+<rect x="285" y="211" width="332" height="28" rx="7" fill="#22c55e"/>
+<text x="627" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Divin Mubama</text>
+<rect x="285" y="269" width="125" height="28" rx="7" fill="#22c55e"/>
+<text x="420" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
+<rect x="285" y="327" width="83" height="28" rx="7" fill="#22c55e"/>
+<text x="378" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.7%</text>
 </svg>
