@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:47:08.000Z
+pubDatetime: 2026-07-26T01:47:09.000Z
 title: "Investimentos EA FC: Championship em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Joe Gelhardt (86, EFL Championship) lidera, com +22.1% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jaden Philogene (87, EFL Championship) lidera, com +20.7% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Joe Gelhardt (86) acumula **+22.1% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jaden Philogene (87) acumula **+20.7% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.6% em 24h** e **+15.0% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.1% em 24h** e **+9.3% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Joe Gelhardt | 86 | EFL Championship | 24k coins | +22.1% | +22.1% | Esticada |
-| Alan Browne | 84 | EFL Championship | 50k coins | +5% | +20.4% | Entrada a observar |
-| Tom Ince | 84 | EFL Championship | 58k coins | +10.6% | +15% | Momentum moderado |
-| Jordan Ayew | 85 | EFL Championship | 36k coins | +12.2% | +10.5% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 44k coins | +4.7% | +7.9% | Entrada a observar |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | +16.4% | +20.7% | Momentum moderado |
+| Jordan Ayew | 85 | EFL Championship | 37k coins | +14% | +10.5% | Momentum moderado |
+| Terry Devlin | 86 | EFL Championship | 38k coins | +2.4% | +8.2% | Entrada a observar |
+| Haji Wright | 84 | EFL Championship | 44k coins | +4.1% | +7.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Joe Gelhardt (86)** — 24k coins, **+22.1% em 7 dias** (+22.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 50k coins, **+20.7% em 7 dias** (+16.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alan Browne (84)** — 50k coins, **+20.4% em 7 dias** (+5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Ayew (85)** — 37k coins, **+10.5% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tom Ince (84)** — 58k coins, **+15% em 7 dias** (+10.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Terry Devlin (86)** — 38k coins, **+8.2% em 7 dias** (+2.4% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Ayew (85)** — 36k coins, **+10.5% em 7 dias** (+12.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Haji Wright (84)** — 44k coins, **+7.9% em 7 dias** (+4.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haji Wright (84)** — 44k coins, **+7.3% em 7 dias** (+4.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Joe Gelhardt (86, EFL Championship) lidera, com +22.1% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jaden Philogene (87, EFL Championship) lidera, com +20.7% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
