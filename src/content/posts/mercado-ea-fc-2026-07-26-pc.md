@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:34:05.000Z
+pubDatetime: 2026-07-26T10:47:16.000Z
 title: "Mercado EA FC em 26/07: Championship — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Victor Torp (80, EFL Championship), com +58.3% em 24h, a 48k coins no PC."
+    a: "Tom Ince (84, EFL Championship), com +47.3% em 24h, a 54k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Moussa Sissoko (88), -35.6% em 24h, a 174k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 10 cartas em alta contra 9 em queda (média 1.55%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 8 cartas em alta contra 9 em queda (média -0.68%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **10 subiram**, **9 caíram** (80+ e 5k+ coins), média de **1.55%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **8 subiram**, **9 caíram** (80+ e 5k+ coins), média de **-0.68%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Victor Torp (80) **+58.3%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-35.6%**
+> 🟢 **Maior alta:** Tom Ince (84) **+47.3%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-35.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Championship — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,19 +35,17 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.6% entre as cartas que se moveram; o universo observado reúne 30 cartas.
-- **Concentração:** EFL Championship aparece em 14 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 82.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.1% entre as cartas que se moveram; o universo observado reúne 25 cartas.
+- **Concentração:** EFL Championship aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Victor Torp | 80 | EFL Championship | 48k coins | +58.3% | 0% |
 | Tom Ince | 84 | EFL Championship | 54k coins | +47.3% | +37.1% |
 | Kieffer Moore | 88 | EFL Championship | 43k coins | +38.7% | -1.1% |
 | Jaden Philogene | 87 | EFL Championship | 45k coins | +5.9% | +24.3% |
-| Cameron Burgess | 80 | EFL Championship | 48k coins | +5% | +38.7% |
 | Emil Riis | 84 | EFL Championship | 41k coins | +3.1% | +13.8% |
 
 
@@ -57,11 +55,11 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Victor Torp (80)** subiu **+58.3%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está +22% acima da média de 7 dias (aquecida).
-
 - **Tom Ince (84)** subiu **+47.3%** em 24h, a **54k coins** (faixa do dia: 36k–55k). Está +14% acima da média de 7 dias (aquecida).
 
 - **Kieffer Moore (88)** subiu **+38.7%** em 24h, a **43k coins** (faixa do dia: 22k–70k). Está -9% abaixo da média de 7 dias (descontada).
+
+- **Jaden Philogene (87)** subiu **+5.9%** em 24h, a **45k coins** (faixa do dia: 30k–60k). Está em linha com a média de 7 dias (-2%).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -89,7 +87,7 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Victor Torp já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tom Ince já avançou 47.3% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Moussa Sissoko recuou -35.6%; confirme estabilização e liquidez.
 
@@ -103,13 +101,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Victor Torp (80, EFL Championship), com +58.3% em 24h, a 48k coins no PC.
+Tom Ince (84, EFL Championship), com +47.3% em 24h, a 54k coins no PC.
 
 **E a maior queda do dia?**
 Moussa Sissoko (88), -35.6% em 24h, a 174k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 10 cartas em alta contra 9 em queda (média 1.55%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 8 cartas em alta contra 9 em queda (média -0.68%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
