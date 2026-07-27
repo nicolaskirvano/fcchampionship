@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:32:53.000Z
+pubDatetime: 2026-07-27T10:47:08.000Z
 title: "Investimentos EA FC: Championship em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -46,7 +46,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Tom Ince | 84 | EFL Championship | 50k coins | +34.7% | +27.6% | Esticada |
 | George Dobson | 84 | EFL Championship | 50k coins | +11.7% | +19% | Momentum moderado |
 | Leif Davis | 84 | EFL Championship | 46k coins | +15% | +15.7% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 41k coins | +3.8% | +6.4% | Entrada a observar |
+| Tristan Crama | 86 | EFL Championship | 52k coins | +3.8% | +6.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
@@ -57,7 +57,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Leif Davis (84)** — 46k coins, **+15.7% em 7 dias** (+15% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 41k coins, **+6.4% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 52k coins, **+6.4% em 7 dias** (+3.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
