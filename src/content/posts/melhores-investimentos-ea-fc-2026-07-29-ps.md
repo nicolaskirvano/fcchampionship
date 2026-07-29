@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:47:09.000Z
+pubDatetime: 2026-07-29T22:47:08.000Z
 title: "Investimentos EA FC: Championship em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Tom Ince (84, EFL Championship) lidera, com +43.6% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Imrân Louza (84, EFL Championship) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tom Ince (84) acumula **+43.6% em 7 dias** a 70k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Imrân Louza (84) acumula **+37.5% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.3% em 24h** e **+27.4% em 7 dias**.
-- **0 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+2.7% em 24h** e **+31.6% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tom Ince | 84 | EFL Championship | 70k coins | +12% | +43.6% | Momentum moderado |
-| Moussa Sissoko | 88 | EFL Championship | 180k coins | +8.4% | +32% | Momentum moderado |
+| Imrân Louza | 84 | EFL Championship | 55k coins | +29.4% | +37.5% | Esticada |
+| Alan Browne | 84 | EFL Championship | 60k coins | +3.4% | +36.4% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 45k coins | +1.1% | +35.2% | Momentum moderado |
 | Leif Davis | 84 | EFL Championship | 50k coins | +1% | +31.6% | Momentum moderado |
-| Imrân Louza | 84 | EFL Championship | 50k coins | +17.6% | +27.4% | Momentum moderado |
-| Kieffer Moore | 88 | EFL Championship | 47k coins | +16.9% | +27.2% | Momentum moderado |
-| Jaden Philogene | 84 | EFL Championship | 51k coins | +1.8% | +12% | Entrada a observar |
-| Jordan Ayew | 85 | EFL Championship | 33k coins | +11.3% | +9.9% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 45k coins | +1.5% | +25.2% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 64k coins | +2.7% | +13% | Entrada a observar |
+| Jordan Ayew | 85 | EFL Championship | 38k coins | +11.3% | +9.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tom Ince (84)** — 70k coins, **+43.6% em 7 dias** (+12% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Imrân Louza (84)** — 55k coins, **+37.5% em 7 dias** (+29.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moussa Sissoko (88)** — 180k coins, **+32% em 7 dias** (+8.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alan Browne (84)** — 60k coins, **+36.4% em 7 dias** (+3.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 50k coins, **+31.6% em 7 dias** (+1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Dobson (84)** — 45k coins, **+35.2% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Imrân Louza (84)** — 50k coins, **+27.4% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 50k coins, **+31.6% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kieffer Moore (88)** — 47k coins, **+27.2% em 7 dias** (+16.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Madsen (84)** — 45k coins, **+25.2% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -89,7 +89,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Tom Ince (84, EFL Championship) lidera, com +43.6% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Imrân Louza (84, EFL Championship) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
