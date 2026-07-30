@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:47:09.000Z
+pubDatetime: 2026-07-30T22:47:08.000Z
 title: "Investimentos EA FC: Championship em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Haji Wright (84, EFL Championship) lidera, com +36.9% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tristan Crama (86, EFL Championship) lidera, com +35.7% em 7 dias a 43k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Haji Wright (84) acumula **+36.9% em 7 dias** a 54k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Tristan Crama (86) acumula **+35.7% em 7 dias** a 43k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.1% em 24h** e **+26.4% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.3% em 24h** e **+11.3% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Haji Wright | 84 | EFL Championship | 54k coins | +7.4% | +36.9% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 47k coins | +7.3% | +35.7% | Momentum moderado |
-| Joe Gelhardt | 86 | EFL Championship | 22k coins | +30.9% | +17.1% | Esticada |
-| Abdul Fatawu | 88 | EFL Championship | 21k coins | +39.3% | +13.3% | Esticada |
+| Tristan Crama | 86 | EFL Championship | 43k coins | +7.3% | +35.7% | Momentum moderado |
+| Jordan Ayew | 85 | EFL Championship | 42k coins | +1.8% | +14.9% | Entrada a observar |
+| Abdul Fatawu | 88 | EFL Championship | 22k coins | +36.2% | +12.9% | Esticada |
+| Caleb Taylor | 84 | EFL Championship | 60k coins | +3.3% | +9.7% | Entrada a observar |
+| Joe Gelhardt | 86 | EFL Championship | 22k coins | +19.4% | +9.6% | Momentum moderado |
+| Kieffer Moore | 88 | EFL Championship | 41k coins | +1.7% | +6.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Haji Wright (84)** — 54k coins, **+36.9% em 7 dias** (+7.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 43k coins, **+35.7% em 7 dias** (+7.3% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 47k coins, **+35.7% em 7 dias** (+7.3% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Ayew (85)** — 42k coins, **+14.9% em 7 dias** (+1.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joe Gelhardt (86)** — 22k coins, **+17.1% em 7 dias** (+30.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Abdul Fatawu (88)** — 22k coins, **+12.9% em 7 dias** (+36.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abdul Fatawu (88)** — 21k coins, **+13.3% em 7 dias** (+39.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caleb Taylor (84)** — 60k coins, **+9.7% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Joe Gelhardt (86)** — 22k coins, **+9.6% em 7 dias** (+19.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Haji Wright (84, EFL Championship) lidera, com +36.9% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tristan Crama (86, EFL Championship) lidera, com +35.7% em 7 dias a 43k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
