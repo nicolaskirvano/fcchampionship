@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:47:08.000Z
+pubDatetime: 2026-07-31T16:47:08.000Z
 title: "Investimentos EA FC: Championship em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Joe Gelhardt (86, EFL Championship) lidera, com +66.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Joe Gelhardt (86, EFL Championship) lidera, com +55.6% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Joe Gelhardt (86) acumula **+66.7% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Joe Gelhardt (86) acumula **+55.6% em 7 dias** a 20k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.8% em 24h** e **+31.6% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.4% em 24h** e **+21.2% em 7 dias**.
+- **0 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **EFL Championship** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Joe Gelhardt | 86 | EFL Championship | 26k coins | +19.3% | +66.7% | Esticada |
-| Imrân Louza | 84 | EFL Championship | 68k coins | +30% | +54.8% | Esticada |
-| Terry Devlin | 86 | EFL Championship | 50k coins | +16.7% | +32.1% | Momentum moderado |
-| George Dobson | 84 | EFL Championship | 54k coins | +18.9% | +31% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 54k coins | +16.2% | +18.7% | Momentum moderado |
-| Jordan Ayew | 85 | EFL Championship | 40k coins | +15.1% | +11.9% | Momentum moderado |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | +11.4% | +55.6% | Momentum moderado |
+| Terry Devlin | 86 | EFL Championship | 43k coins | +13.3% | +28.3% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 50k coins | +2% | +23.8% | Entrada a observar |
+| Imrân Louza | 84 | EFL Championship | 68k coins | +11% | +18.7% | Momentum moderado |
+| Kieffer Moore | 88 | EFL Championship | 48k coins | +15.7% | +12.9% | Momentum moderado |
+| Jordan Ayew | 85 | EFL Championship | 40k coins | +15.1% | +12.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Joe Gelhardt (86)** — 26k coins, **+66.7% em 7 dias** (+19.3% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joe Gelhardt (86)** — 20k coins, **+55.6% em 7 dias** (+11.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Imrân Louza (84)** — 68k coins, **+54.8% em 7 dias** (+30% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Terry Devlin (86)** — 43k coins, **+28.3% em 7 dias** (+13.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Terry Devlin (86)** — 50k coins, **+32.1% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Dobson (84)** — 50k coins, **+23.8% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Dobson (84)** — 54k coins, **+31% em 7 dias** (+18.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Imrân Louza (84)** — 68k coins, **+18.7% em 7 dias** (+11% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolas Madsen (84)** — 54k coins, **+18.7% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kieffer Moore (88)** — 48k coins, **+12.9% em 7 dias** (+15.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Joe Gelhardt (86, EFL Championship) lidera, com +66.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Joe Gelhardt (86, EFL Championship) lidera, com +55.6% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
