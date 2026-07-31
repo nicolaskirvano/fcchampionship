@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:47:07.000Z
+pubDatetime: 2026-07-31T19:47:07.000Z
 title: "Mercado EA FC em 31/07: Championship — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Kieffer Moore (88, EFL Championship), com +15.7% em 24h, a 48k coins no Console (PS)."
+    a: "Abdul Fatawu (88, EFL Championship), com +22% em 24h, a 25k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tom Ince (84), -13% em 24h, a 50k coins."
+    a: "Emil Riis (84), -13.3% em 24h, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 6 em queda (média 1.34%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 4 cartas em alta contra 10 em queda (média -0.65%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **9 subiram**, **6 caíram** (80+ e 5k+ coins), média de **1.34%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **4 subiram**, **10 caíram** (80+ e 5k+ coins), média de **-0.65%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Kieffer Moore (88) **+15.7%** · 🔴 **Maior baixa:** Tom Ince (84) **-13%**
+> 🟢 **Maior alta:** Abdul Fatawu (88) **+22%** · 🔴 **Maior baixa:** Emil Riis (84) **-13.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Championship — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,20 +35,15 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 28.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.0% entre as cartas que se moveram; o universo observado reúne 25 cartas.
-- **Concentração:** EFL Championship aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 35.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 28.6% entre as cartas que se moveram; o universo observado reúne 23 cartas.
+- **Concentração:** EFL Championship aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kieffer Moore | 88 | EFL Championship | 48k coins | +15.7% | +12.9% |
-| Jordan Ayew | 85 | EFL Championship | 40k coins | +15.1% | +12.7% |
-| Terry Devlin | 86 | EFL Championship | 51k coins | +13.3% | +28.3% |
-| James McClean | 87 | EFL Championship | 35k coins | +12.9% | -14.6% |
-| Joe Gelhardt | 86 | EFL Championship | 20k coins | +11.4% | +55.6% |
-| Imrân Louza | 84 | EFL Championship | 68k coins | +11% | +18.7% |
+| Abdul Fatawu | 88 | EFL Championship | 25k coins | +22% | +96.1% |
 
 
 ### Análise das altas
@@ -57,37 +52,29 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kieffer Moore (88)** subiu **+15.7%** em 24h, a **48k coins** (faixa do dia: 35k–52k). Está +22% acima da média de 7 dias (aquecida).
-
-- **Jordan Ayew (85)** subiu **+15.1%** em 24h, a **40k coins** (faixa do dia: 22k–42k). Está +10% acima da média de 7 dias (aquecida).
-
-- **Terry Devlin (86)** subiu **+13.3%** em 24h, a **51k coins** (faixa do dia: 42k–55k). Está em linha com a média de 7 dias (+4%).
+- **Abdul Fatawu (88)** subiu **+22%** em 24h, a **25k coins** (faixa do dia: 12.250–38k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tom Ince | 84 | EFL Championship | 50k coins | -13% | -1% |
-| Tristan Crama | 86 | EFL Championship | 45k coins | -7.4% | +21.4% |
-| Haji Wright | 84 | EFL Championship | 45k coins | -5.9% | +15.9% |
-| Victor Torp | 80 | EFL Championship | 48k coins | -5.3% | -5.3% |
+| Emil Riis | 84 | EFL Championship | 45k coins | -13.3% | -2.5% |
+| Haji Wright | 84 | EFL Championship | 51k coins | -6.7% | +7.1% |
 
 
 ### Análise das baixas
 
-- **Tom Ince (84)** caiu **-13%** em 24h, a **50k coins** (faixa do dia: 45k–70k). Está -14% abaixo da média de 7 dias (descontada).
+- **Emil Riis (84)** caiu **-13.3%** em 24h, a **45k coins** (faixa do dia: 39k–45k). Está em linha com a média de 7 dias (+2%).
 
-- **Tristan Crama (86)** caiu **-7.4%** em 24h, a **45k coins** (faixa do dia: 40k–54k). Está em linha com a média de 7 dias (-7%).
-
-- **Haji Wright (84)** caiu **-5.9%** em 24h, a **45k coins** (faixa do dia: 44k–54k). Está em linha com a média de 7 dias (-6%).
+- **Haji Wright (84)** caiu **-6.7%** em 24h, a **51k coins** (faixa do dia: 44k–54k). Está em linha com a média de 7 dias (+6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kieffer Moore já avançou 15.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Abdul Fatawu já avançou 22% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tom Ince recuou -13%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emil Riis recuou -13.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,13 +86,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Kieffer Moore (88, EFL Championship), com +15.7% em 24h, a 48k coins no Console (PS).
+Abdul Fatawu (88, EFL Championship), com +22% em 24h, a 25k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tom Ince (84), -13% em 24h, a 50k coins.
+Emil Riis (84), -13.3% em 24h, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 6 em queda (média 1.34%).
+Hoje o mercado está em baixa — predominam as quedas, com 4 cartas em alta contra 10 em queda (média -0.65%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -120,6 +107,5 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Championship em 31/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-31-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
