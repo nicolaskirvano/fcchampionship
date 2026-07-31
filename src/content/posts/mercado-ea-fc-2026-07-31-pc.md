@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:33:12.000Z
+pubDatetime: 2026-07-31T10:47:16.000Z
 title: "Mercado EA FC em 31/07: Championship — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
     a: "Nicolas Madsen (84, EFL Championship), com +25% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Moussa Sissoko (88), -15.6% em 24h, a 136k coins."
+    a: "Moussa Sissoko (88), -16.1% em 24h, a 136k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 1 em queda (média 7.76%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 1 em queda (média 7.48%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **9 subiram**, **1 caíram** (80+ e 5k+ coins), média de **7.76%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **9 subiram**, **1 caíram** (80+ e 5k+ coins), média de **7.48%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolas Madsen (84) **+25%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-15.6%**
+> 🟢 **Maior alta:** Nicolas Madsen (84) **+25%** · 🔴 **Maior baixa:** Moussa Sissoko (88) **-16.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Championship — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,7 +35,7 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 40.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Amplitude do dia:** 41.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
 - **Participação das altas:** 90.0% entre as cartas que se moveram; o universo observado reúne 27 cartas.
 - **Concentração:** EFL Championship aparece em 7 dos 20 maiores movimentos listados.
 
@@ -45,10 +45,10 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | --- | --- | --- | --- | --- | --- |
 | Nicolas Madsen | 84 | EFL Championship | 50k coins | +25% | +8.7% |
 | Leif Davis | 84 | EFL Championship | 58k coins | +24.5% | +52.9% |
-| Finn Azaz | 88 | EFL Championship | 49k coins | +19.8% | +12.4% |
+| Finn Azaz | 88 | EFL Championship | 48k coins | +17.4% | +10.1% |
 | Caleb Taylor | 84 | EFL Championship | 50k coins | +10% | -1% |
 | Kieffer Moore | 83 | EFL Championship | 50k coins | +8.2% | -0.5% |
-| Haji Wright | 84 | EFL Championship | 50k coins | +7.5% | +0.5% |
+| Haji Wright | 84 | EFL Championship | 53k coins | +7.5% | +0.5% |
 
 
 ### Análise das altas
@@ -61,26 +61,26 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 - **Leif Davis (84)** subiu **+24.5%** em 24h, a **58k coins** (faixa do dia: 43k–58k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Finn Azaz (88)** subiu **+19.8%** em 24h, a **49k coins** (faixa do dia: 29k–58k). Está +13% acima da média de 7 dias (aquecida).
+- **Finn Azaz (88)** subiu **+17.4%** em 24h, a **48k coins** (faixa do dia: 29k–58k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 136k coins | -15.6% | -30% |
+| Moussa Sissoko | 88 | EFL Championship | 136k coins | -16.1% | -30.4% |
 
 
 ### Análise das baixas
 
-- **Moussa Sissoko (88)** caiu **-15.6%** em 24h, a **136k coins** (faixa do dia: 105k–290k). Está -48% abaixo da média de 7 dias (descontada).
+- **Moussa Sissoko (88)** caiu **-16.1%** em 24h, a **136k coins** (faixa do dia: 105k–290k). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Nicolas Madsen já avançou 25% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Moussa Sissoko recuou -15.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Moussa Sissoko recuou -16.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -95,10 +95,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Nicolas Madsen (84, EFL Championship), com +25% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Moussa Sissoko (88), -15.6% em 24h, a 136k coins.
+Moussa Sissoko (88), -16.1% em 24h, a 136k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 1 em queda (média 7.76%).
+Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 1 em queda (média 7.48%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

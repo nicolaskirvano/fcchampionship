@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:33:03.000Z
+pubDatetime: 2026-07-31T10:47:08.000Z
 title: "Investimentos EA FC: Championship em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Imrân Louza (84, EFL Championship) lidera, com +65.5% em 7 dias a 63k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Finn Azaz (88, EFL Championship) lidera, com +73.6% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Imrân Louza (84) acumula **+65.5% em 7 dias** a 63k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Finn Azaz (88) acumula **+73.6% em 7 dias** a 80k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+30.2% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.5% em 24h** e **+34.2% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Imrân Louza | 84 | EFL Championship | 63k coins | +26.4% | +65.5% | Esticada |
-| Tristan Crama | 86 | EFL Championship | 54k coins | +2.9% | +50% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 51k coins | +7.4% | +34.2% | Momentum moderado |
+| Finn Azaz | 88 | EFL Championship | 80k coins | +7% | +73.6% | Esticada |
+| Imrân Louza | 84 | EFL Championship | 63k coins | +14.5% | +50% | Momentum moderado |
+| Tristan Crama | 86 | EFL Championship | 52k coins | +2.9% | +50% | Momentum moderado |
+| Haji Wright | 84 | EFL Championship | 48k coins | +7.4% | +34.2% | Momentum moderado |
 | Nicolas Madsen | 84 | EFL Championship | 59k coins | +22.9% | +26.2% | Esticada |
-| Kieffer Moore | 88 | EFL Championship | 49k coins | +9.5% | +12% | Momentum moderado |
+| Kieffer Moore | 88 | EFL Championship | 48k coins | +9.5% | +12% | Momentum moderado |
 | Alan Browne | 84 | EFL Championship | 55k coins | +10.6% | +11.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Imrân Louza (84)** — 63k coins, **+65.5% em 7 dias** (+26.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Finn Azaz (88)** — 80k coins, **+73.6% em 7 dias** (+7% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 54k coins, **+50% em 7 dias** (+2.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Imrân Louza (84)** — 63k coins, **+50% em 7 dias** (+14.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 51k coins, **+34.2% em 7 dias** (+7.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 52k coins, **+50% em 7 dias** (+2.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Haji Wright (84)** — 48k coins, **+34.2% em 7 dias** (+7.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nicolas Madsen (84)** — 59k coins, **+26.2% em 7 dias** (+22.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Kieffer Moore (88)** — 49k coins, **+12% em 7 dias** (+9.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Imrân Louza (84, EFL Championship) lidera, com +65.5% em 7 dias a 63k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Finn Azaz (88, EFL Championship) lidera, com +73.6% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
