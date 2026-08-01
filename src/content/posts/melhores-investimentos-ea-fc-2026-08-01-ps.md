@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:32:59.000Z
+pubDatetime: 2026-08-01T10:47:10.000Z
 title: "Investimentos EA FC: Championship em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Nicolas Madsen (84, EFL Championship) lidera, com +41.1% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolas Madsen (84, EFL Championship) lidera, com +41.1% em 7 dias a 53k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nicolas Madsen (84) acumula **+41.1% em 7 dias** a 56k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nicolas Madsen (84) acumula **+41.1% em 7 dias** a 53k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Championship em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nicolas Madsen | 84 | EFL Championship | 56k coins | +7.6% | +41.1% | Momentum moderado |
-| Jaden Philogene | 84 | EFL Championship | 64k coins | +26.5% | +29.6% | Esticada |
+| Nicolas Madsen | 84 | EFL Championship | 53k coins | +7.6% | +41.1% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 63k coins | +26.5% | +29.6% | Esticada |
 | James McClean | 87 | EFL Championship | 30k coins | +11.9% | +13.8% | Momentum moderado |
 | Tom Ince | 84 | EFL Championship | 60k coins | +13.2% | +12.1% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 50k coins | +1.1% | +7.3% | Entrada a observar |
+| Leif Davis | 84 | EFL Championship | 50k coins | +5.3% | +11.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nicolas Madsen (84)** — 56k coins, **+41.1% em 7 dias** (+7.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Madsen (84)** — 53k coins, **+41.1% em 7 dias** (+7.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (84)** — 64k coins, **+29.6% em 7 dias** (+26.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (84)** — 63k coins, **+29.6% em 7 dias** (+26.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **James McClean (87)** — 30k coins, **+13.8% em 7 dias** (+11.9% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Tom Ince (84)** — 60k coins, **+12.1% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 50k coins, **+7.3% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 50k coins, **+11.7% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Nicolas Madsen (84, EFL Championship) lidera, com +41.1% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolas Madsen (84, EFL Championship) lidera, com +41.1% em 7 dias a 53k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
