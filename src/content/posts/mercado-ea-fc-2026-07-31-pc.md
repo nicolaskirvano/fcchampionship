@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:47:16.000Z
+pubDatetime: 2026-08-01T01:47:17.000Z
 title: "Mercado EA FC em 31/07: Championship — PC"
 draft: false
 featured: true
@@ -12,73 +12,51 @@ tags:
   - pc
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Nicolas Madsen (84, EFL Championship), com +3.6% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Kieffer Moore (88), -26.3% em 24h, a 21k coins."
+    a: "Kieffer Moore (88), -22.9% em 24h, a 21k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 4 cartas em alta contra 5 em queda (média 0.55%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 3 cartas em alta contra 7 em queda (média -0.26%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **4 subiram**, **5 caíram** (80+ e 5k+ coins), média de **0.55%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
-
-> 🟢 **Maior alta:** Nicolas Madsen (84) **+3.6%** · 🔴 **Maior baixa:** Kieffer Moore (88) **-26.3%**
-
-![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Championship — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
-
-*Visualização gerada com os mesmos valores da tabela deste artigo.*
-
+Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **3 subiram**, **7 caíram** (80+ e 5k+ coins), média de **-0.26%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 29.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.4% entre as cartas que se moveram; o universo observado reúne 23 cartas.
-- **Concentração:** EFL Championship aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 30.0% entre as cartas que se moveram; o universo observado reúne 24 cartas.
+- **Concentração:** EFL Championship aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
-| Jogador | OVR | Liga | Preço | 24h | 7d |
-| --- | --- | --- | --- | --- | --- |
-| Nicolas Madsen | 84 | EFL Championship | 50k coins | +3.6% | +0.5% |
-
-
-### Análise das altas
-
-
-<!-- projection-note:v1 -->
-> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
-
-- **Nicolas Madsen (84)** subiu **+3.6%** em 24h, a **50k coins** (faixa do dia: 48k–50k). Está em linha com a média de 7 dias (+7%).
+_Sem altas relevantes hoje._
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kieffer Moore | 88 | EFL Championship | 21k coins | -26.3% | -48.8% |
-| Cameron Burgess | 80 | EFL Championship | 38k coins | -18.9% | -18.9% |
-| Jordan Ayew | 85 | EFL Championship | 38k coins | -11.8% | -3.8% |
-| Abdul Fatawu | 88 | EFL Championship | 20k coins | -11.1% | -21.4% |
+| Kieffer Moore | 88 | EFL Championship | 21k coins | -22.9% | -48.1% |
+| Cameron Burgess | 80 | EFL Championship | 38k coins | -18.9% | -14.9% |
+| Jaden Philogene | 87 | EFL Championship | 40k coins | -17.6% | -11.2% |
+| Haji Wright | 84 | EFL Championship | 51k coins | -11.3% | -5.5% |
 
 
 ### Análise das baixas
 
-- **Kieffer Moore (88)** caiu **-26.3%** em 24h, a **21k coins** (faixa do dia: 21k–48k). Está -47% abaixo da média de 7 dias (descontada).
+- **Kieffer Moore (88)** caiu **-22.9%** em 24h, a **21k coins** (faixa do dia: 21k–48k). Está -47% abaixo da média de 7 dias (descontada).
 
 - **Cameron Burgess (80)** caiu **-18.9%** em 24h, a **38k coins** (faixa do dia: 38k–48k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Jordan Ayew (85)** caiu **-11.8%** em 24h, a **38k coins** (faixa do dia: 38k–45k). Está em linha com a média de 7 dias (-3%).
+- **Jaden Philogene (87)** caiu **-17.6%** em 24h, a **40k coins** (faixa do dia: 29k–56k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nicolas Madsen já avançou 3.6% em 24h; espere nova cotação antes de entrar.
-
-- **Queda não é compra automática:** Kieffer Moore recuou -26.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kieffer Moore recuou -22.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -89,20 +67,22 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Nicolas Madsen (84, EFL Championship), com +3.6% em 24h, a 50k coins no PC.
-
 **E a maior queda do dia?**
-Kieffer Moore (88), -26.3% em 24h, a 21k coins.
+Kieffer Moore (88), -22.9% em 24h, a 21k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 4 cartas em alta contra 5 em queda (média 0.55%).
+Hoje o mercado está em baixa — predominam as quedas, com 3 cartas em alta contra 7 em queda (média -0.26%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
 > **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Championship — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
 
 ---
 
