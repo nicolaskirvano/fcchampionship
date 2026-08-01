@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:47:18.000Z
+pubDatetime: 2026-08-01T13:47:16.000Z
 title: "Mercado EA FC em 01/08: Championship — PC"
 draft: false
 featured: true
@@ -15,20 +15,20 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Cameron Burgess (80), -18.9% em 24h, a 38k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 3 cartas em alta contra 9 em queda (média -1.18%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 5 cartas em alta contra 7 em queda (média -0.56%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **3 subiram** e **9 caíram**, com variação média de **-1.18%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **5 subiram** e **7 caíram**, com variação média de **-0.56%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 25.0% entre as cartas que se moveram; o universo observado reúne 28 cartas.
-- **Concentração:** EFL Championship aparece em 7 dos 20 maiores movimentos listados.
+- **Participação das altas:** 41.7% entre as cartas que se moveram; o universo observado reúne 29 cartas.
+- **Concentração:** EFL Championship aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -40,21 +40,18 @@ _Sem altas relevantes hoje._
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Cameron Burgess | 80 | EFL Championship | 38k coins | -18.9% | -14.9% |
-| Emil Riis | 84 | EFL Championship | 35k coins | -17.6% | -15.7% |
-| Kieffer Moore | 88 | EFL Championship | 21k coins | -16.8% | -41.7% |
-| Tom Ince | 84 | EFL Championship | 49k coins | -10.1% | +20.2% |
-| Haji Wright | 84 | EFL Championship | 47k coins | -10% | -10% |
-| Conor Coady | 85 | EFL Championship | 28k coins | -6.7% | -6.7% |
-| Jaden Philogene | 87 | EFL Championship | 35k coins | -6.1% | -22.8% |
+| Leif Davis | 84 | EFL Championship | 42k coins | -15.2% | +9.8% |
+| Tom Ince | 84 | EFL Championship | 48k coins | -11% | +18.3% |
+| Haji Wright | 84 | EFL Championship | 46k coins | -10.5% | -10.5% |
 
 
 ### Análise das baixas
 
 - **Cameron Burgess (80)** caiu **-18.9%** em 24h, a **38k coins** (faixa do dia: 38k–48k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Emil Riis (84)** caiu **-17.6%** em 24h, a **35k coins** (faixa do dia: 35k–42k). Está -15% abaixo da média de 7 dias (descontada).
+- **Leif Davis (84)** caiu **-15.2%** em 24h, a **42k coins** (faixa do dia: 38k–58k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Kieffer Moore (88)** caiu **-16.8%** em 24h, a **21k coins** (faixa do dia: 21k–25k). Está -46% abaixo da média de 7 dias (descontada).
+- **Tom Ince (84)** caiu **-11%** em 24h, a **48k coins** (faixa do dia: 48k–54k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -74,7 +71,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 Cameron Burgess (80), -18.9% em 24h, a 38k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 3 cartas em alta contra 9 em queda (média -1.18%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 5 cartas em alta contra 7 em queda (média -0.56%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
