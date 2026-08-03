@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Finn Azaz</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Ayew</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">George Dobson</text>
-<rect x="285" y="153" width="394" height="28" rx="7" fill="#22c55e"/>
-<text x="689" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Ayew</text>
-<rect x="285" y="211" width="232" height="28" rx="7" fill="#22c55e"/>
-<text x="527" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaden Philogene</text>
-<rect x="285" y="269" width="191" height="28" rx="7" fill="#22c55e"/>
-<text x="486" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Imrân Louza</text>
-<rect x="285" y="327" width="165" height="28" rx="7" fill="#22c55e"/>
-<text x="460" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
-<rect x="285" y="385" width="137" height="28" rx="7" fill="#22c55e"/>
-<text x="432" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Imrân Louza</text>
+<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caleb Taylor</text>
+<rect x="285" y="211" width="352" height="28" rx="7" fill="#22c55e"/>
+<text x="647" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tom Ince</text>
+<rect x="285" y="269" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Brandon Thomas-Asante</text>
+<rect x="285" y="327" width="114" height="28" rx="7" fill="#22c55e"/>
+<text x="409" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Conor Coady</text>
+<rect x="285" y="385" width="65" height="28" rx="7" fill="#22c55e"/>
+<text x="360" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+3.2%</text>
 </svg>
