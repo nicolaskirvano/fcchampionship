@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:47:07.000Z
+pubDatetime: 2026-08-04T13:47:07.000Z
 title: "Mercado EA FC em 04/08: Championship — Console (PS)"
 draft: false
 featured: true
@@ -13,37 +13,30 @@ tags:
 description: "Dados de 04/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Finn Azaz (88, EFL Championship), com +35.7% em 24h, a 92k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Abdul Fatawu (88), -13.3% em 24h, a 26k coins."
+    a: "Caleb Taylor (84, EFL Championship), com +24% em 24h, a 80k coins no Console (PS)."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 3 cartas em alta contra 2 em queda (média 4.52%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 5 cartas em alta contra 0 em queda (média 9.17%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **04/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **3 valorizações** contra **2 quedas** entre as cartas relevantes, com média de **4.52%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
-
-> 🟢 **Maior alta:** Finn Azaz (88) **+35.7%** · 🔴 **Maior baixa:** Abdul Fatawu (88) **-13.3%**
-
-![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Championship — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
-
-*Visualização gerada com os mesmos valores da tabela deste artigo.*
-
+Resumo de **04/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **5 valorizações** contra **0 quedas** entre as cartas relevantes, com média de **9.17%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 49.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.0% entre as cartas que se moveram; o universo observado reúne 8 cartas.
-- **Concentração:** EFL Championship aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 100.0% entre as cartas que se moveram; o universo observado reúne 8 cartas.
+- **Concentração:** EFL Championship aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Finn Azaz | 88 | EFL Championship | 92k coins | +35.7% | +108.8% |
+| Caleb Taylor | 84 | EFL Championship | 80k coins | +24% | +25% |
+| Finn Azaz | 88 | EFL Championship | 86k coins | +22.9% | +89% |
+| Jordan Ayew | 85 | EFL Championship | 38k coins | +11.8% | +13.3% |
 | Brandon Thomas-Asante | 80 | EFL Championship | 48k coins | +5.6% | 0% |
 
 
@@ -53,28 +46,26 @@ Resumo de **04/08/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Finn Azaz (88)** subiu **+35.7%** em 24h, a **92k coins** (faixa do dia: 31k–101k). Está +51% acima da média de 7 dias (aquecida).
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Championship — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
 
-- **Brandon Thomas-Asante (80)** subiu **+5.6%** em 24h, a **48k coins** (faixa do dia: 45k–48k). Está em linha com a média de 7 dias (+2%).
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+- **Caleb Taylor (84)** subiu **+24%** em 24h, a **80k coins** (faixa do dia: 42k–80k). Está +31% acima da média de 7 dias (aquecida).
+
+- **Finn Azaz (88)** subiu **+22.9%** em 24h, a **86k coins** (faixa do dia: 31k–101k). Está +41% acima da média de 7 dias (aquecida).
+
+- **Jordan Ayew (85)** subiu **+11.8%** em 24h, a **38k coins** (faixa do dia: 26k–42k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
-| Jogador | OVR | Liga | Preço | 24h | 7d |
-| --- | --- | --- | --- | --- | --- |
-| Abdul Fatawu | 88 | EFL Championship | 26k coins | -13.3% | +36.8% |
-
-
-### Análise das baixas
-
-- **Abdul Fatawu (88)** caiu **-13.3%** em 24h, a **26k coins** (faixa do dia: 18.250–33k). Está em linha com a média de 7 dias (+3%).
+_Sem baixas relevantes hoje._
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Finn Azaz já avançou 35.7% em 24h; espere nova cotação antes de entrar.
-
-- **Queda não é compra automática:** Abdul Fatawu recuou -13.3%; confirme estabilização e liquidez.
+- **Evite perseguir topo:** Caleb Taylor já avançou 24% em 24h; espere nova cotação antes de entrar.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -86,13 +77,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Finn Azaz (88, EFL Championship), com +35.7% em 24h, a 92k coins no Console (PS).
-
-**E a maior queda do dia?**
-Abdul Fatawu (88), -13.3% em 24h, a 26k coins.
+Caleb Taylor (84, EFL Championship), com +24% em 24h, a 80k coins no Console (PS).
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 3 cartas em alta contra 2 em queda (média 4.52%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 5 cartas em alta contra 0 em queda (média 9.17%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
