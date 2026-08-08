@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:32:36.000Z
+pubDatetime: 2026-08-08T10:47:08.000Z
 title: "Mercado EA FC em 08/08: Championship — Console (PS)"
 draft: false
 featured: true
